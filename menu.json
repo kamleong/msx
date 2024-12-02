@@ -23,7 +23,7 @@
           {"title":"TTV News (台視新聞台)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
           {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
           {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
-          {"title":"ABC News 24 (AU)","image":"https://i.imgur.com/GpgrYCb.png","action":"video:https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"},
+          {"title":"ABC News (AU)","image":"https://kahoot.com/files/2020/11/abc-australia-logo-1024x1024.png","action":"video:https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"},
           {"title":"ABC News (USA)","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
           {"title":"History Hit","image":"https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png","action":"video:https://timeline-samsung-uk.amagi.tv/playlist.m3u8"},
           {"title":"PBS KET World","image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png","action":"video:https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"},
