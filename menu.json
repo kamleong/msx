@@ -54,6 +54,7 @@
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"Astro Awani (720p)","image":"https://i.imgur.com/dLzgBUj.png","action":"video:https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"},
+          {"title":"BERNAMA","image":"https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5"},
           {"title":"◎Nusantara TV (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png","action":"video:https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8"},
           {"title":"◎CNN Indonesia","image":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png","action":"video:https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
           {"title":"◎NBT World","image":"https://yt3.googleusercontent.com/y0I78uLv24L08LpXXrch121lh-377cJKlGftIczwQv3NCrnp4BVV2cA9YiZmnFo-nXM485B0Pg=s176-c-k-c0x00ffffff-no-rj","action":"video:https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/playlist.m3u8"},
