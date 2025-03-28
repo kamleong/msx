@@ -35,6 +35,7 @@
           {"title":"CSI","image":"https://i.imgur.com/xLLNEfA.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
           {"title":"Baywatch (SamsungTV+,UK)","image":"https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD600002XT_20230712T021143SQUARE.png_20230712021144.png","action":"video:https://d1ku2wsea2oun8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7htqzh9lvkxho/playlist.m3u8"},
           {"title":"CCTV15","image":"https://i.imgur.com/m2R60TJ.png","action":"video:http://192.168.108.75/cgi-bin/djtv.m3u?cctv15"},
+          {"title":"8TV.audio","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"audio:https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/cmaf-audio_0=96000.m3u8"},
           {"title":"AiFM","image":"https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png","action":"audio:https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"},
           {"title":"📹☼☉︎☯太極氣功 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
           {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
