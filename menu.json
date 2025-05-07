@@ -12,7 +12,7 @@
           {"title":"8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
           {"title":"鳳凰衛視","image":"https://i.imgur.com/rwY7FHT.png","action":"video:http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.m3u8"},
-          {"title":"鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:https://ali.hlspull.yximgs.com/live/61c942d703d359fe8336111bd4fd4bc3.flv"},
+          {"title":"鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.m3u8"},
           {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
           {"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"},
           {"title":"DW","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
@@ -109,6 +109,7 @@
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"◎Go USA","image":"https://i.imgur.com/x90ALip.png","action":"video:https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"},
+          {"title":"4K Travel","image":"https://stmify.com/wp-content/uploads/2024/11/354-s-150x84.webp","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"},
           {"title":"🏖◎TravelXP","image":"https://i.imgur.com/NZkPH1N.png","action":"video:https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8"},
           {"title":"📻◎Beautiful Instrumentals Channel (Radio)","image":"","action":"audio:http://hydra.cdnstream.com/1822_128"},
           {"title":"Ʊ🎶🎼 ◎Classic Arts Showcase","image":"https://i.imgur.com/M6FFkc3.png","action":"video:https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"},
@@ -121,6 +122,7 @@
           {"title":"*🎬◎Action Hollywood Movies","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&usqp=CAU","action":"video:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"},
           {"title":"Dunia Sinema HD","image":"https://i.postimg.cc/XqBwckyb/dunia-sinema.png","action":"video:https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"},
           {"title":"美亚电影台(粤语)","image":"https://img.tiantianzhibo.net/tv/meiyadianying.jpg","action":"video:http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn"},
+          {"title":"星光影视","image":"https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png","action":"video:http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv"},
           {"title":"天映頻道 (普)","image":"http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg","action":"video:http://php.jdshipin.com/smt.php?id=Celestial"},
           {"title":"天映經典","image":"https://i.imgur.com/1VhXilw.png","action":"video:http://php.jdshipin.com/smt.php?id=Celestial2"},
           {"title":"◎Wu Tang Collection (720p)","image":"https://i.imgur.com/sz55sBl.png","action":"video:https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73"},
