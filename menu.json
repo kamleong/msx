@@ -182,7 +182,7 @@
           {"title":"◎面包台","image":"https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg","action":"video:https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
           {"title":"📻◎佛山电台 (Radio)","image":"","action":"audio:https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8"},
           {"title":"东方卫视","image":"https://i.imgur.com/WqM6xnF.png","action":"video:https://k09093.kylintv.tv/live/dragontvhd_iphone.m3u8"},
-          {"title":"大湾区卫视","image":"http://live.cooltv.top/logo/dwq.png","action":"video:http://38.64.72.148:80/hls/modn/list/4011/chunklist0.m3u8"},
+          {"title":"大湾区卫视","image":"http://live.cooltv.top/logo/dwq.png","action":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8"},
           {"title":"◎上虞1新闻综合 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxwzh.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"},
           {"title":"◎上虞3新商都 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxsd.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"},
           {"title":"◎余姚1新闻综合 (576p)","image":"https://w7.pngwing.com/pngs/113/282/png-transparent-logo-china-central-television-television-channel-local-tv-station-icon-television-blue-angle.png","action":"video:http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"},
@@ -191,7 +191,6 @@
           {"title":"◎三明2公共 (720p) [Not 24/7]","image":"https://www.xhzb.tw/uploads/allimg/18/1-1P31QK3180-L.jpg","action":"video:http://stream.smntv.cn/smtv2/playlist.m3u8"},
           {"title":"◎云南文山新闻综合台 (1080p) [Not 24/7]","image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaySPgvUEjNuOZv1NCAOKsZrH5PhmtW7dxxnvv4OgyrQLv5STm","action":"video:http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv"},
           {"title":"ETTV America (東森美洲電視)","image":"https://www.ebc.net.tw/Images/169-america.jpg","action":"video:http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"},
-          {"title":"◎美国中文电视 (406p) [Not 24/7]","image":"https://i.imgur.com/ir3jkyL.png","action":"video:https://cdnts.sinovision.net/livestream.m3u8"},
           {"title":"SinoTV 華語電視 (LA)","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8"},
           {"title":"SinoTV 華語電視 (NY) 粤語","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8"},
           {"title":"◎美南電視 (STV15.3)","image":"https://scdaily.com/images/tTkalKyBNDiucOvxt03SBVuDwoi6zfg74KjYjyGH.png","action":"video:http://cdn71.liveonlineservices.com/hls/stv.m3u8"}
