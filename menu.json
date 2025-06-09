@@ -1,5 +1,5 @@
 {
-  "action": "video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+  "action_": "video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
   "headline": "Content",
   "menu": [
     {"icon": "movie", "label": "Main List",
