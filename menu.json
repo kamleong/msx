@@ -1,5 +1,5 @@
 {
-  "action_": "video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
+  "action": "video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
   "headline": "Content",
   "menu": [
     {"icon": "movie", "label": "Main List",
@@ -15,7 +15,7 @@
           {"title":"鳳凰衛視.us","image":"https://i.imgur.com/rwY7FHT.png","action":"video:https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"},
           {"title":"鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.m3u8"},
           {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
-          {"focus":true,"execute":true,"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"},
+          {"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"},
           {"title":"DW","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
           {"title":"Al Jazeera English","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
           {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
