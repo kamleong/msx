@@ -67,7 +67,7 @@
           {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
           {"title":"*🔭◎Al Jazeera English Ⓢ","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
           {"title":"✗ 🔭BBC World News","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
-          {"title":"📻◎BBC World Service (Radio)","image":"https://i.imgur.com/RYgSSHl.png","action":"audio:http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8"},
+          {"title":"📻◎BBC World Service (Radio)","image":"https://i.imgur.com/RYgSSHl.png","action":"audio:https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"},
           {"title":"📻◎NPR (Radio)","image":"","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
           {"title":"◎Bloomberg TV Asia (720p)","image":"https://i.imgur.com/OuogLHx.png","action":"video:https://bloomberg.com/media-manifest/streams/asia.m3u8"},
           {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
