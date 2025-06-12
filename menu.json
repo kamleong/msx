@@ -181,7 +181,7 @@
           {"title":"CCTV-4 中文国际（亚）","image":"https://i.imgur.com/ovUSVEQ.png","action":"video:https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8"},
           {"title":"✗ *𝄞CCTV-15音乐 (720p)","image":"https://i.imgur.com/m2R60TJ.png","action":"video:http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt="},
           {"title":"◎面包台","image":"https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg","action":"video:https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
-          {"title":"📻◎佛山电台 (Radio)","image":"","action":"audio:https://play.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8"},
+          {"title":"📻◎佛山电台 (Radio)","image":"","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
           {"title":"东方卫视","image":"https://i.imgur.com/WqM6xnF.png","action":"video:https://k09093.kylintv.tv/live/dragontvhd_iphone.m3u8"},
           {"title":"大湾区卫视","image":"http://live.cooltv.top/logo/dwq.png","action":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8"},
           {"title":"◎上虞1新闻综合 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxwzh.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"},
