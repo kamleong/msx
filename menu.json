@@ -9,7 +9,7 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
-          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02c91ce241c1aad7d5"},
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:https://unifi-live27.secureswiftcontent.com/UnifiHD/live08.mpd"},
           {"title":"8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
           {"title":"鳳凰衛視.us","image":"https://i.imgur.com/rwY7FHT.png","action":"video:https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"},
@@ -130,7 +130,6 @@
           {"title":"星光影视","image":"https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png","action":"video:http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv"},
           {"title":"天映頻道 (普)","image":"http://www.tvyan.com/uploads/dianshi/celestialmovies.jpg","action":"video:http://php.jdshipin.com/smt.php?id=Celestial"},
           {"title":"天映經典","image":"https://i.imgur.com/1VhXilw.png","action":"video:http://php.jdshipin.com/smt.php?id=Celestial2"},
-          {"title":"◎Wu Tang Collection (720p)","image":"https://i.imgur.com/sz55sBl.png","action":"video:https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73"},
           {"title":"PlutoTV The Carol Burnett Show","image":"https://mediaplaynews.b-cdn.net/wp-content/uploads/2020/09/The-Carol-Burnett-Show-Cover-photo-2.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?62e91c8933682c000754fc45"},
           {"title":"PlutoTV The Amazing Race (720p)","image":"https://i.imgur.com/5yzPhRo.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e8a6e2f12b000755afdb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=297&terminate=false&userId="},
           {"title":"PlutoTV Mission: Impossible (cgi-bin)","image":"https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?62ea43aa0c43540007f2db96"},
