@@ -68,7 +68,7 @@
           {"title":"*🔭◎Al Jazeera English Ⓢ","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
           {"title":"✗ 🔭BBC World News","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
           {"title":"📻◎BBC World Service (Radio)","image":"https://i.imgur.com/RYgSSHl.png","action":"audio:https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"},
-          {"title":"📻◎NPR (Radio)","image":"","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
+          {"title":"📻◎NPR (Radio)","icon":"radio","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
           {"title":"◎Bloomberg TV Asia (720p)","image":"https://i.imgur.com/OuogLHx.png","action":"video:https://bloomberg.com/media-manifest/streams/asia.m3u8"},
           {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
           {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"},
@@ -182,7 +182,7 @@
           {"title":"CCTV-4 中文国际（亚）","image":"https://i.imgur.com/ovUSVEQ.png","action":"video:https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8"},
           {"title":"✗ *𝄞CCTV-15音乐 (720p)","image":"https://i.imgur.com/m2R60TJ.png","action":"video:http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt="},
           {"title":"◎面包台","image":"https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg","action":"video:https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
-          {"title":"📻◎佛山电台 (Radio)","image":"","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
+          {"title":"📻◎佛山电台 (Radio)","icon":"radio","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
           {"title":"东方卫视","image":"https://i.imgur.com/WqM6xnF.png","action":"video:https://k09093.kylintv.tv/live/dragontvhd_iphone.m3u8"},
           {"title":"大湾区卫视","image":"http://live.cooltv.top/logo/dwq.png","action":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8"},
           {"title":"◎上虞1新闻综合 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxwzh.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"},
@@ -195,7 +195,8 @@
           {"title":"ETTV America (東森美洲電視)","image":"https://www.ebc.net.tw/Images/169-america.jpg","action":"video:http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"},
           {"title":"SinoTV 華語電視 (LA)","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8"},
           {"title":"SinoTV 華語電視 (NY) 粤語","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8"},
-          {"title":"◎美南電視 (STV15.3)","image":"https://scdaily.com/images/tTkalKyBNDiucOvxt03SBVuDwoi6zfg74KjYjyGH.png","action":"video:http://cdn71.liveonlineservices.com/hls/stv.m3u8"}
+          {"title":"◎美南電視 (STV15.3)","image":"https://scdaily.com/images/tTkalKyBNDiucOvxt03SBVuDwoi6zfg74KjYjyGH.png","action":"video:http://cdn71.liveonlineservices.com/hls/stv.m3u8"},
+          {"title":"捕风追影","icon":"movie","action":"video:https://hn.bfvvs.com/play/yb8myz2d/index.m3u8"}
        ]
      }
     },
@@ -217,12 +218,12 @@
           {"title":"ABC Localish Bay Area (720p)","image":"https://i.imgur.com/ACEbGD5.png","action":"video:https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8"},
           {"title":"◎C31 Melbourne","image":"https://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"},
           {"title":"◎C44 Adelaide","image":"https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192715/C44-logo.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"},
-          {"title":"📁 📖 iptv-org","image":"","action":"video:https://kamleong.github.io/iptv-org.category.m3u"},
-          {"title":"📁 📖 Free-TV","image":"","action":"video:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m3u"},
-          {"title":"Local Proxy (CGI-cURL-sed)","image":"","action":"video:http://192.168.175.1/cgi-bin/stream.m3u"},
-          {"title":"Local Restream (Nginx-HLS-RTMP-FFmpeg)","image":"","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
-          {"title":"📹☼☉︎☯太極氣功 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
-          {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"}         
+          {"title":"📁 📖 iptv-org","icon":"live-tv","action":"video:https://kamleong.github.io/iptv-org.category.m3u"},
+          {"title":"📁 📖 Free-TV","icon":"live-tv","action":"video:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m3u"},
+          {"title":"Local Proxy (CGI-cURL-sed)","icon":"stream","action":"video:http://192.168.175.1/cgi-bin/stream.m3u"},
+          {"title":"Local Restream (Nginx-HLS-RTMP-FFmpeg)","icon":"route","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
+          {"title":"📹☼☉︎☯太極氣功 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
+          {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"}         
        ]
      }
     }
