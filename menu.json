@@ -12,7 +12,7 @@
           {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8"},
           {"title":"8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
-          {"title":"鳳凰衛視","image":"https://i.imgur.com/rwY7FHT.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?fhk},
+          {"title":"鳳凰衛視","image":"https://i.imgur.com/rwY7FHT.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?fhk"},
           {"title":"鳳凰衛視.us","image":"https://i.imgur.com/rwY7FHT.png","action":"video:https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"},
           {"title":"鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?fhk.hk"},
           {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
