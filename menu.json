@@ -227,6 +227,7 @@
           {"title":"◎C44 Adelaide","image":"https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192715/C44-logo.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"},
           {"title":"📁 📖 iptv-org","icon":"live-tv","action":"video:https://kamleong.github.io/iptv-org.category.m3u"},
           {"title":"📁 📖 Free-TV","icon":"live-tv","action":"video:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m3u"},
+          {"title":"🔍1888en","icon":"live-tv","action":"link:window:http://timetv.xyz/english/"},
           {"title":"🔗Local Proxy (CGI-cURL-sed)","icon":"stream","action":"video:http://192.168.175.1/cgi-bin/stream.m3u"},
           {"title":"🔗Local Restream (Nginx-HLS-RTMP-FFmpeg)","icon":"route","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
           {"title":"📹☼☉︎☯太極氣功 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
