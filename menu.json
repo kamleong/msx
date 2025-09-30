@@ -1,5 +1,5 @@
 {
-  "action": "video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8",
+  "action": "video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8",
   "headline": "Content",
   "menu": [
     {"icon": "movie", "label": "Main List",
@@ -16,7 +16,7 @@
           {"title":"鳳凰衛視.us","image":"https://i.imgur.com/rwY7FHT.png","action":"video:https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"},
           {"title":"🔗鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?fhk.hk"},
           {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
-          {"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"},
+          {"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"},
           {"title":"DW","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
           {"title":"Al Jazeera English","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
           {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
@@ -73,7 +73,7 @@
           {"title":"📻◎NPR (Radio)","icon":"radio","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
           {"title":"◎Bloomberg TV Asia (720p)","image":"https://i.imgur.com/OuogLHx.png","action":"video:https://bloomberg.com/media-manifest/streams/asia.m3u8"},
           {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
-          {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"},
+          {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"},
           {"title":"◎日テレNEWS24 Ⓢ","image":"https://i.imgur.com/tVNZ0BU.png","action":"video:https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"},
           {"title":"*◎Arirang - 763","image":"https://i.imgur.com/RuHZ6Dx.png","action":"video:https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
           {"title":"☑◎KBS World - 773","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:http://mytv.dothome.co.kr/ch/catv/7.php"},
