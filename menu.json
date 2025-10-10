@@ -54,24 +54,12 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
-          {"title":"Astro Awani (720p)","image":"https://i.imgur.com/dLzgBUj.png","action":"video:https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"},
-          {"title":"BERNAMA","image":"https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5"},
+          {"title":"*◎DW English - 1053","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
           {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
-          {"title":"◎CNN Indonesia","image":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png","action":"video:https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
-          {"title":"CCTN Philippines","image":"https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png","action":"video:http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"},
-          {"title":"TTV News (台視新聞台)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
-          {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
-          {"title":"TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt"},
-          {"title":"🔗鳳凰衛視資訊台","image":"https://i.imgur.com/mt4h3VO.png","action":"video:http://192.168.175.1/cgi-bin/fhk.flv?zx"},
           {"title":"*🔭◎Al Jazeera English Ⓢ","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
+          {"title":"☑◎TRT World - 934","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
           {"title":"✗ 🔭BBC World News","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
           {"title":"📻◎BBC World Service (Radio)","image":"https://i.imgur.com/RYgSSHl.png","action":"audio:https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"},
-          {"title":"◎Bloomberg TV Asia (720p)","image":"https://i.imgur.com/OuogLHx.png","action":"video:https://bloomberg.com/media-manifest/streams/asia.m3u8"},
-          {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
-          {"title":"◎日テレNEWS24 Ⓢ","image":"https://i.imgur.com/tVNZ0BU.png","action":"video:https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"},
-          {"title":"WION (1080p)","image":"https://i.imgur.com/Wc5Z3iS.png","action":"video:https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"},
-          {"title":"CNN News 18","image":"https://i.imgur.com/WrmeIco.png","action":"video:https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"},
-          {"title":"☑◎TRT World - 934","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
           {"title":"*◎ABC News 24 (AU) - 23","image":"https://kahoot.com/files/2020/11/abc-australia-logo-1024x1024.png","action":"video:https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"},
           {"title":"☑◎ABC News - 1008","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
           {"title":"🔭◎CBS News - 1009","image":"https://i.imgur.com/nki2HDQ.png","action":"video:https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8"},
@@ -82,8 +70,20 @@
           {"title":"☑Euronews English - 1050","image":"https://i.imgur.com/8MsbPCU.png","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8"},
           {"title":"Africanews English - 1051","image":"https://i.imgur.com/xocvePC.png","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8"},
           {"title":"France 24 English - 1052","image":"https://i.imgur.com/61MSiq9.png","action":"video:https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8"},
-          {"title":"*◎DW English - 1053","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
-          {"title":"☑◎CGTN English - 1055","image":"https://i.imgur.com/fMsJYzl.png","action":"video:https://english-livebkali.cgtn.com/live/encgtn_1.m3u8"}
+          {"title":"◎Bloomberg TV Asia (720p)","image":"https://i.imgur.com/OuogLHx.png","action":"video:https://bloomberg.com/media-manifest/streams/asia.m3u8"},
+          {"title":"Astro Awani (720p)","image":"https://i.imgur.com/dLzgBUj.png","action":"video:https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"},
+          {"title":"BERNAMA","image":"https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5"},
+          {"title":"◎CNN Indonesia","image":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png","action":"video:https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
+          {"title":"CCTN Philippines","image":"https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png","action":"video:http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"},
+          {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
+          {"title":"🔗鳳凰衛視資訊台","image":"https://i.imgur.com/mt4h3VO.png","action":"video:http://192.168.175.1/cgi-bin/fhk.flv?zx"},
+          {"title":"TTV News (台視新聞台)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
+          {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
+          {"title":"TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt"},
+          {"title":"◎日テレNEWS24 Ⓢ","image":"https://i.imgur.com/tVNZ0BU.png","action":"video:https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8"},
+          {"title":"☑◎CGTN English - 1055","image":"https://i.imgur.com/fMsJYzl.png","action":"video:https://english-livebkali.cgtn.com/live/encgtn_1.m3u8"},
+          {"title":"WION (1080p)","image":"https://i.imgur.com/Wc5Z3iS.png","action":"video:https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"},
+          {"title":"CNN News 18","image":"https://i.imgur.com/WrmeIco.png","action":"video:https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"}
        ]
      }
     },         
@@ -94,7 +94,7 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
-          {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"},
+          {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://backup-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/TBh0bqsA9YuC3xgp/2cNkK7SbDyqrzLxo/chunks.m3u8"},
           {"title":"*◎Arirang - 763","image":"https://i.imgur.com/RuHZ6Dx.png","action":"video:https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
           {"title":"☑◎KBS World - 773","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:http://mytv.dothome.co.kr/ch/catv/7.php"},
           {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
@@ -178,12 +178,12 @@
           {"title":"📻◎佛山电台 (Radio)","icon":"radio","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
           {"title":"🔗大湾区卫视","image":"http://live.cooltv.top/logo/dwq.png","action0":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8","action":"video:http://192.168.175.1/cgi-bin/kds.tw?gdtv51"},
           {"title":"🔗东方卫视","image":"https://i.imgur.com/WqM6xnF.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?dragontv"},
-          {"title":"◎上虞1新闻综合 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxwzh.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"},
-          {"title":"◎上虞3新商都 (720p) [Not 24/7]","image":"http://www.tvyan.com/uploads/dianshi/syxsd.jpg","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"},
-          {"title":"◎余姚1新闻综合 (576p)","image":"https://w7.pngwing.com/pngs/113/282/png-transparent-logo-china-central-television-television-channel-local-tv-station-icon-television-blue-angle.png","action":"video:http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"},
+          {"title":"◎上虞1新闻综合 (720p) [Not 24/7]","image":"https://img.tmuyun.com/assets/20210418/1618733884230_607beb3cb40eef3a71124d0d.png","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"},
+          {"title":"◎上虞3新商都 (720p) [Not 24/7]","image":"https://img.tmuyun.com/assets/20210418/1618733884230_607beb3cb40eef3a71124d0d.png","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"},
+          {"title":"◎余姚1新闻综合 (576p)","image":"https://baike.baidu.com/pic/%E4%BD%99%E5%A7%9A%E7%94%B5%E8%A7%86%E5%8F%B0/4331849/1/b3b7d0a20cf431ad1eb2e4504036acaf2edd9873","action":"video:http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"},
           {"title":"◎松桃新闻","image":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8b/e7/ae/8be7ae1e-f01e-7a27-33a1-9d62df96bf8f/source/512x512bb.jpg","action":"video:http://live.strmtzx.cn/stxw/sd/live.m3u8"},
-          {"title":"◎三明1新闻综合 (720p) [Not 24/7]","image":"https://www.xhzb.tw/uploads/18/1-1P31QK413W7.jpg","action":"video:http://stream.smntv.cn/smtv1/playlist.m3u8"},
-          {"title":"◎三明2公共 (720p) [Not 24/7]","image":"https://www.xhzb.tw/uploads/allimg/18/1-1P31QK3180-L.jpg","action":"video:http://stream.smntv.cn/smtv2/playlist.m3u8"},
+          {"title":"◎三明1新闻综合 (720p) [Not 24/7]","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8yERWiQEL1kzvuAL9lIWotiF6bmFlSXshw&s","action":"video:http://stream.smntv.cn/smtv1/playlist.m3u8"},
+          {"title":"◎三明2公共 (720p) [Not 24/7]","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8yERWiQEL1kzvuAL9lIWotiF6bmFlSXshw&s","action":"video:http://stream.smntv.cn/smtv2/playlist.m3u8"},
           {"title":"◎云南文山新闻综合台 (1080p) [Not 24/7]","image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaySPgvUEjNuOZv1NCAOKsZrH5PhmtW7dxxnvv4OgyrQLv5STm","action":"video:http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv"}
        ]
      }
