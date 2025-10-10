@@ -127,6 +127,7 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv"},
           {"title":"🔗Astro AEC","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"video:http://192.168.175.1/cgi-bin/kds.tw?aec"},
           {"title":"🔍AEC.web","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"link:window:https://www.tvmalaysia.live/channel/astro-aec"},
           {"title":"🔗新傳媒8頻道","image":"https://www.kds.tw/wp-content/uploads/2025/09/687b15a592231_P9T3-480x320.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?chnl8.sg"},
@@ -213,7 +214,7 @@
           {"title":"PlutoTV CSI (720p)","image":"https://i.imgur.com/xLLNEfA.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId="},
           {"title":"🔗PlutoTV Hawaii Five-0","image":"https://images.pluto.tv/channels/655f2977635c3c00085ce819/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?655f2977635c3c00085ce819"},
           {"title":"🔗PlutoTV Scorpion","image":"https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?63d000ef4e83e700086e0d6c"},
-          {"title":"Baywatch","image":"https://i.imgur.com/c2esKHg.png","action":"video:https://livetv-fa.tubi.video/wsb2/360p/index.m3u8"},
+          {"title":"🔗Baywatch","image":"https://i.imgur.com/c2esKHg.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?65819e62b228b70008570e9f"},
           {"title":"🔗☑HITS","image":"https://i.imgur.com/IM8Gy1l.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?hitstv"},
           {"title":"捕风追影","icon":"movie","action":"video:https://hn.bfvvs.com/play/yb8myz2d/index.m3u8"}
        ]
