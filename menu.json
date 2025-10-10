@@ -47,7 +47,7 @@
        ]
      }
     },
-    {"icon": "newspaper", "label": "News/Info",
+    {"icon": "videocam", "label": "News/Info",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List2",
        "template": {          
@@ -87,7 +87,7 @@
        ]
      }
     },         
-    {"icon": "newspaper", "label": "Info/Documentary",
+    {"icon": "info", "label": "Info/Docu",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List2",
        "template": {          
@@ -120,7 +120,7 @@
        ]
      }
     },
-    {"icon": "temple-buddhist", "label": "中華", "label_": "漢語-中台港澳-海外",
+    {"icon": "person", "label": "中華", "label_": "漢語-中台港澳-海外",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List4",
        "template": {          
@@ -207,7 +207,7 @@
        ]
      }
     },
-    {"icon": "video-camera-back", "label": "Leisure/Entertainment",
+    {"icon": "video-camera-back", "label": "Leisure/Entmt",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List3",
        "template": {          
