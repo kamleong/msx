@@ -10,7 +10,6 @@
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://php.jdshipin.com/smt.php?id=TV8"},
-          {"title":"🔍8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
           {"title":"🔗鳳凰衛視","image":"https://i.imgur.com/rwY7FHT.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?fhk"},
           {"title":"鳳凰衛視.us","image":"https://i.imgur.com/rwY7FHT.png","action":"video:https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"},
@@ -21,12 +20,10 @@
           {"title":"Al Jazeera English","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
           {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
           {"title":"TRT World","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
-          {"title":"Arirang (KR)","image":"https://i.imgur.com/RuHZ6Dx.png","action":"video:https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
           {"title":"澳門衛星頻道 Ch.96 (Macau)","image":"https://i.imgur.com/oFPUZ97.png","action":"video:https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8"},
           {"title":"華視 (CTS)","image":"https://i.imgur.com/ISl9WsI.png","action":"video:https://k44991.kylintv.tv/live/ctshd_iphone.m3u8"},
           {"title":"台視新聞台 (TTV News)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
           {"title":"民視新聞台 (FTV News)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
-          {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
           {"title":"ABC News (AU)","image":"https://kahoot.com/files/2020/11/abc-australia-logo-1024x1024.png","action":"video:https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"},
           {"title":"ABC News (USA)","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
           {"title":"History Hit","image":"https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png","action":"video:https://timeline-samsung-uk.amagi.tv/playlist.m3u8"},
@@ -39,8 +36,8 @@
           {"title":"鳳凰衛視.audio","image":"https://i.imgur.com/rwY7FHT.png","action":"audio:http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"},
           {"title":"鳳凰資訊.audio","image":"https://i.imgur.com/mt4h3VO.png","action":"audio:http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"},
           {"title":"AiFM","image":"https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png","action":"audio:https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"},
-          {"title":"📹☼☉︎☯太極氣功 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
-          {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
+          {"title":"☯太極氣功 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
+          {"title":"📹八段錦 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
           {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
           {"title":"🔍ref🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
        ]
@@ -94,6 +91,8 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv"},
+          {"title":"🔍8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
           {"title":"*◎Arirang - 763","image":"https://i.imgur.com/RuHZ6Dx.png","action":"video:https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
           {"title":"☑◎KBS World - 773","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:http://mytv.dothome.co.kr/ch/catv/7.php"},
@@ -172,9 +171,8 @@
           {"title":"TVBS News (TVBS新聞台)","image":"https://i.imgur.com/171lwfg.png","action":"video:http://38.64.72.148/hls/modn/list/4006/playlist.m3u8"},
           {"title":"TTV News (台視新聞台)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
           {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
-          {"title":"EBC News (東森新聞台)","image":"https://i.imgur.com/QFZs80p.png","action":"video:http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11"},
-          {"title":"Taiwan News (寰宇新聞 台灣台)","image":"https://i.imgur.com/oYUjEle.png","action":"video:https://sc2022.stream-link.org/tv2306.php?id=t09"},
-          {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
+          {"title":"EBC News (東森新聞台)","image":"https://i.imgur.com/QFZs80p.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?ettvnews"},
+          {"title":"🔗Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?globnews"},
           {"title":"TVB J2","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/250px-TVB_J2.jpg","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=j2"},
           {"title":"◎面包台","image":"https://breadradioonline.com/uploads/allimg/171009/1-1G009125F9460.jpg","action":"video:https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
           {"title":"ETTV America (東森美洲電視)","image":"https://www.ebc.net.tw/Images/169-america.jpg","action":"video:http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"},
@@ -285,7 +283,9 @@
           {"title":"🔗Local Proxy (CGI-cURL-sed)","icon":"stream","action":"video:http://192.168.175.1/cgi-bin/stream.m3u"},
           {"title":"🔗Local Restream (Nginx-HLS-RTMP-FFmpeg)","icon":"route","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
           {"title":"📹☼☉︎☯太極氣功 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
-          {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"}         
+          {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},         
+          {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
+          {"title":"🔍ref🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
        ]
      }
     }
