@@ -101,7 +101,7 @@
           {"title":"TV5 HD","image":"https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png","action":"video:https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"},
           {"title":"◎CH7 HD","image":"https://i.imgur.com/DcrHenu.png","action":"video:http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8"},
           {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
-          {"title":"☑◎Victor Valley TV","image":"https://i.imgur.com/zgiuNNj.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8"},
+          {"title":"☑◎Victor Valley TV","image":"https://i.imgur.com/zgiuNNj.png","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-5317556-1/playlist.m3u8"},
           {"title":"◎WPS TV (360p)","image":"https://i.imgur.com/zwzmwse.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"},
           {"title":"◎WCVB-TV News Boston MA (720p) [Not 24/7]","image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png","action":"video:https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8"},
           {"title":"◎CBS News Baltimore (720p)","image":"https://i.imgur.com/jy3UfCe.png","action":"video:https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8"},
@@ -242,7 +242,7 @@
        ]
      }
     },
-    {"icon": "video-camera-back", "label": "Leisure/Entmt",
+    {"icon": "video-camera-back", "label": "Leisure/Entmt", "label_": "LiveStyle,Music,Travel,Variety,Entertainment",
      "data": {
        "type": "list", "type_": "pages|list", "headline": "List8",
        "template": {          
@@ -260,6 +260,9 @@
           {"title":"Stingray Smooth Jazz","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200031NL_20240227T221218SQUARE.png_20240227221219.png","action":"video:https://d7dwykp2dcps0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vdletsupqql6k/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"},
           {"title":"◎Spirit TV","image":"https://i.ibb.co/gy6ZJrj/SPIRIT-TV.png","action":"video:https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8"},
           {"title":"Dance Moms","image":"https://images-cdn4.welcomesoftware.com/assets/Dance+moms-hero.jpg/Zz0yYzlkM2M3MGExNDcxMWVmOGY5ZTZhZWI3ZTI5MDgwYg==?width=160","action":"video:https://livetv-fa.tubi.video/dance-moms/playlistR1080p.m3u8"},
+          {"title":"Heartland (Country Music) KVVB.TV 33.4","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9h0FO_6z6B38nQUdWSc020MLaQm_k6Ph6JA&s","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8"},
+          {"title":"YTA (KVVB.TV 33.1)","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6UU4yhN8oWdrne3fp--1daM8Th8LnoCrCA&s","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-1309230-1/playlist.m3u8"},
+          {"title":"Comedy Dynamics","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvHpBnZxjqsxmnyziBV7Pjm8tcTlOSrP7og&s","action":"video:https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8"},
           {"title":"🔗PlutoTV The Carol Burnett Show","image":"https://mediaplaynews.b-cdn.net/wp-content/uploads/2020/09/The-Carol-Burnett-Show-Cover-photo-2.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?62e91c8933682c000754fc45"},
           {"title":"PlutoTV The Amazing Race (720p)","image":"https://i.imgur.com/5yzPhRo.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e8a6e2f12b000755afdb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=297&terminate=false&userId="},
           {"title":"🦸◎RetroCrush TV (1080p)","image":"https://play-lh.googleusercontent.com/0sGC_MLday5uTDFA7x0gzd2UUPTqex4P7XP1YCE2GGJsl8opuFNqdbywH-cqXo0iPWA=w240-h480","action":"video:https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/cb543d1f7e6c648d9fd43e6fd9ef42a5f9701fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b555677895fd47d01cec07ab1414329442fc587b07bd8991208b2d91f5c73f12f480eb61114d1204d229bad425fd538b67c514aa55b3c0633c0ec58f8234f94d102da627cdeff8b6738750c5fcd555def9b6497a8b51d07fa5f9b801c42b4157fa2c12d899645fdd18712bc70bc47f11ebea8ccdc8750c0e9c23cf714e73a1d2a4117f8d04b86a32fde0f196043fe5c11047678e7af92e75d3587352c369adef8cfae7b8eacf341a0733eba7af3270fb08319cf22b2ea5bb0efd4b79bc230d6a60b305dc5cfaf82f42779da0c9efabb8e232ccbb17c2a3606285cc1d59506a2b2c5b4c8ef810a1aa5fe183c2bc9900ab088b38fee8fa15f9135dfd5ce8e5764636c1e0b8a51a3d53895799d30909f427a1c614da38f4d849e81080f341bddc04cc2494ae982c5d3964e1ccf631055a732890a553c9d643d3cc324eb9f3a6391695bd46073ab2a52ea27d0b122e0bfa1a66c5c98d1dd4bf363eecf65f4ff10ac6b334142feb200564b5965928942082372d74af4d9a8b4276c6c59a4aa8ce8f8098113ebe71d8630/50/1920x1080_4715744/index.m3u8"},
@@ -281,6 +284,7 @@
           {"title":"📁 📖 iptv-org","icon":"live-tv","action":"video:https://kamleong.github.io/iptv-org.category.m3u"},
           {"title":"📁 📖 Free-TV","icon":"live-tv","action":"video:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8?x=playlist.m3u"},
           {"title":"🔍1888en","icon":"live-tv","action":"link:window:http://timetv.xyz/english/"},
+          {"title":"🔍Tubi","image":"https://corporate.tubitv.com/wp-content/uploads/2020/03/tubi.jpg","action":"link:window:https://yibababa.com/tv/tubi/"},
           {"title":"🔗Local Proxy (CGI-cURL-sed)","icon":"stream","action":"video:http://192.168.175.1/cgi-bin/stream.m3u"},
           {"title":"🔗Local Restream (Nginx-HLS-RTMP-FFmpeg)","icon":"route","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
           {"title":"📹☼☉︎☯太極氣功 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
