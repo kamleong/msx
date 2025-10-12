@@ -16,7 +16,7 @@
           {"title":"🔗鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?fhk.hk"},
           {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
           {"title":"NHK","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://backup-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/TBh0bqsA9YuC3xgp/2cNkK7SbDyqrzLxo/chunks.m3u8"},
-          {"title":"DW","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
+          {"title":"DW","image":"https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
           {"title":"Al Jazeera English","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje.getaj.net/AJE/05.m3u8"},
           {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
           {"title":"TRT World","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
@@ -120,7 +120,7 @@
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://backup-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/TBh0bqsA9YuC3xgp/2cNkK7SbDyqrzLxo/chunks.m3u8"},
-          {"title":"*◎DW English - 1053","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
+          {"title":"*◎DW English - 1053","image":"https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
           {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
           {"title":"◎NBT World","image":"https://yt3.googleusercontent.com/y0I78uLv24L08LpXXrch121lh-377cJKlGftIczwQv3NCrnp4BVV2cA9YiZmnFo-nXM485B0Pg=s176-c-k-c0x00ffffff-no-rj","action":"video:https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/playlist.m3u8"},
           {"title":"📻◎NPR (Radio)","icon":"radio","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
@@ -149,7 +149,7 @@
           {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv"},
           {"title":"🔗Astro AEC","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"video:http://192.168.175.1/cgi-bin/kds.tw?aec"},
           {"title":"🔍AEC.web","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"link:window:https://www.tvmalaysia.live/channel/astro-aec"},
-          {"title":"🔗新傳媒U頻道","image":"https://static.wikia.nocookie.net/logopedia/images/f/fe/SPH_Channel_U_logo_stacked_v2.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?chnlu.sg"},
+          {"title":"🔗新傳媒U頻道","image":"https://onecms-res.cloudinary.com/image/upload/v1673978131/mediacorp/corporate/inline-images/channel%20u__370x180.jpg","image_":"https://static.wikia.nocookie.net/logopedia/images/f/fe/SPH_Channel_U_logo_stacked_v2.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?chnlu.sg"},
           {"title":"🔗新傳媒8頻道","image":"https://www.kds.tw/wp-content/uploads/2025/09/687b15a592231_P9T3-480x320.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?chnl8.sg"},
           {"title":"✗ *台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0"},
           {"title":"小公視","image":"https://ptsxs.pts.org.tw/uploads/site/site_logo/6687c1fe3673764c1c8c8bcb/PTSlogoXS.png","action":"video:https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8"},
