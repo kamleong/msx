@@ -9,7 +9,7 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
-          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action0":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
           {"title":"🔗鳳凰衛視","image":"https://i.imgur.com/rwY7FHT.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?fhk"},
           {"title":"鳳凰衛視.us","image":"https://i.imgur.com/rwY7FHT.png","action":"video:https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"},
@@ -90,7 +90,7 @@
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
-          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action0":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
           {"title":"🔍8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
           {"title":"◎Nusantara TV (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png","action":"video:https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"},
           {"title":"TV5 HD","image":"https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png","action":"video:https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"},
@@ -150,7 +150,7 @@
           {"title":"🔗新傳媒U頻道","image":"https://onecms-res.cloudinary.com/image/upload/v1673978131/mediacorp/corporate/inline-images/channel%20u__370x180.jpg","image_":"https://static.wikia.nocookie.net/logopedia/images/f/fe/SPH_Channel_U_logo_stacked_v2.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?chnlu.sg"},
           {"title":"🔗Astro AEC","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"video:http://192.168.175.1/cgi-bin/kds.tw?aec"},
           {"title":"🔍AEC.web","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"link:window:https://www.tvmalaysia.live/channel/astro-aec"},
-          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action0":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
           {"title":"*◎澳門Macau 衛星頻道 Ch.96","image":"https://i.imgur.com/oFPUZ97.png","action":"video:https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8"},
           {"title":"港台電視32-時事","image":"https://i.imgur.com/MXLuUoU.png","action":"video:https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream3/streamPlaylist.m3u8"},
           {"title":"HKIBC 香港國際財經台(有線76台)","image":"https://i.imgur.com/jaIdkbz.png","action":"video:https://z88.ubtvfans.com/live/rx1/354/e2ebb99d1a004b25246d5311e7a0c278/index.m3u8"},
