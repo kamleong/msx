@@ -222,6 +222,7 @@
             ,
             "titlex":"🔗PlutoTV Law & Order","actionx":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?68758038552299d2b08162e3"            
           },
+          {"title":"🔗PlutoTV Classic TV Crime Drama","image":"https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?61325c4f982acd000723287e"},
           {"title":"🔗☑HITS","image":"https://i.imgur.com/IM8Gy1l.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?hitstv"},
           {"title":"🔗PlutoTV Mission: Impossible (cgi-bin)","image":"https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?62ea43aa0c43540007f2db96"},
           {"title":"PlutoTV Mission: Impossible (720p)","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
