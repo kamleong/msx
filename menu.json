@@ -101,7 +101,7 @@
           {"title":"◎WCVB-TV News Boston MA","image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png","action":"video:https://livetv-fa.tubi.video/wcvb/playlist.m3u8"},
           {"title":"WFTX News Fort Myers FL","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png","action":"video:https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"},
           {"title":"WPTV News West Palm Beach FL","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png","action":"video:https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"},
-          {"title":"WOLO-TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WOLO_25_2022.svg/250px-WOLO_25_2022.svg.png","action":"video:https://fl7.moveonjoy.com/ABC_EAST/index.m3u8"},
+          {"title":"WOLO-TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WOLO_25_2022.svg/250px-WOLO_25_2022.svg.png","action":"video:https://fl25.moveonjoy.com/ABC_EAST/index.m3u8"},
           {"title":"ABC Tampa Bay 28","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-N_f6-QSnEsEQSrAfMztWEUfgVAJLNrs_ng&s","action":"video:https://livetv-fa.tubi.video/wfts2/playlist.m3u8"},
           {"title":"☑◎Victor Valley TV","image":"https://i.imgur.com/zgiuNNj.png","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-5317556-1/playlist.m3u8"},
           {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
@@ -217,12 +217,12 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
-          {
-            "title":"🔗PlutoTV Universal Action","image":"https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?654933e253fc970008390114"
-            ,
-            "titlex":"🔗PlutoTV Law & Order","actionx":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?68758038552299d2b08162e3"            
+          {"title":"🔗PlutoTV Classic TV Crime Drama","image":"https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?61325c4f982acd000723287e"
+           ,"🔗PlutoTV Universal Action":"654933e253fc970008390114","🔗PlutoTV Law & Order":"68758038552299d2b08162e3"
+           ,"plutotv.m3u":"http://192.168.108.75/cgi-bin/plutotv.m3u?654933e253fc970008390114"
+           ,"master.m3u8":"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId="
+           ,"master.m3u8":"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654933e253fc970008390114/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
           },
-          {"title":"🔗PlutoTV Classic TV Crime Drama","image":"https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?61325c4f982acd000723287e"},
           {"title":"🔗☑HITS","image":"https://i.imgur.com/IM8Gy1l.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?hitstv"},
           {"title":"🔗PlutoTV Mission: Impossible (cgi-bin)","image":"https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?62ea43aa0c43540007f2db96"},
           {"title":"PlutoTV Mission: Impossible (720p)","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
