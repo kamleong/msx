@@ -217,9 +217,11 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
+          {"title":"PlutoTV Universal Action","image":"https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654933e253fc970008390114livestitch/1302400/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-9cb8f2f1-9043-4d01-b8d6-5b6503e2a5b9&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel"},
           {"title":"🔗PlutoTV Classic TV Crime Drama","image":"https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?61325c4f982acd000723287e"
            ,"🔗PlutoTV Universal Action":"654933e253fc970008390114","🔗PlutoTV Law & Order":"68758038552299d2b08162e3"
            ,"plutotv.m3u":"http://192.168.108.75/cgi-bin/plutotv.m3u?654933e253fc970008390114"
+           ,"RESOLUTION":"1280x720 [2977920] 854x480 [2020480,1302400] 640x360 [823680] 426x240 [464640]"
            ,"master.m3u8":"https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId="
            ,"master.m3u8":"https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654933e253fc970008390114/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
           },
