@@ -90,7 +90,7 @@
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
           {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
-          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
+          {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action0":"video:http://cdn6.163189.xyz/163189/8tv","action":"video:http://php.jdshipin.com/smt.php?id=TV8"},
           {"title":"🔍8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
           {"title":"◎Nusantara TV (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png","action":"video:https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"},
           {"title":"TV5 HD","image":"https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png","action":"video:https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"},
@@ -217,7 +217,7 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
-          {"title":"PlutoTV Universal Action","image":"https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654933e253fc970008390114livestitch/1302400/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-9cb8f2f1-9043-4d01-b8d6-5b6503e2a5b9&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel"},
+          {"title":"PlutoTV Universal Action","image":"https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654933e253fc970008390114/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
           {"title":"🔗PlutoTV Classic TV Crime Drama","image":"https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png","action":"video:http://192.168.108.75/cgi-bin/plutotv.m3u?61325c4f982acd000723287e"
            ,"🔗PlutoTV Universal Action":"654933e253fc970008390114","🔗PlutoTV Law & Order":"68758038552299d2b08162e3"
            ,"plutotv.m3u":"http://192.168.108.75/cgi-bin/plutotv.m3u?654933e253fc970008390114"
