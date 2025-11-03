@@ -250,7 +250,8 @@
           {"title":"美亞電影台","image":"https://img.tiantianzhibo.net/tv/meiyadianying.jpg","action":"video:http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn","action1":"video:http://192.168.175.1/cgi-bin/kds.tw?matv"},
           {"title":"🔗東森電影台","image":"https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png","action":"video:http://192.168.175.1/cgi-bin/kds.tw?etmovie"},
           {"title":"🔗緯來電影台","image":"https://i0.wp.com/img.isuper.tv/live-tv/vl-movie-live.jpg","action":"video:http://192.168.175.1/cgi-bin/kds.tw?vlmv"},
-          {"title":"星光影视","image":"https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png","action":"video:http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv"},
+          {"title":"星光影视","image":"https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png","action":"video:http://iptv.huuc.edu.cn/hls/startv.m3u8"},
+          {"title":"长江剧场","image":"https://bkimg.cdn.bcebos.com/pic/060828381f30e924378bd43743086e061d95f78d","action":"video:https://k44991.kylintv.tv/live/yangtse_iphone.m3u8"},          
           {"title":"天映頻道 (普)","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OzV0u7iWefr-eGtR3KML5LK-0K5JgmSWKA&s","action":"video:http://php.jdshipin.com/smt.php?id=Celestial"},
           {"title":"天映經典","image":"https://i.imgur.com/1VhXilw.png","action":"video:http://php.jdshipin.com/smt.php?id=Celestial2"},
           {"title":"捕风追影","icon":"movie","action":"video:https://hn.bfvvs.com/play/yb8myz2d/index.m3u8"}
@@ -268,6 +269,7 @@
           {"title":"4K Travel","image":"https://stmify.com/wp-content/uploads/2024/11/354-s-150x84.webp","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"},
           {"title":"🏖◎TravelXP","image":"https://i.imgur.com/NZkPH1N.png","action":"video:https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8"},
           {"title":"TVB J2","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/250px-TVB_J2.jpg","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=j2"},
+          {"title":"星空音乐","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnk0USZAROMR-kSUE3fDOAieAnvv0Pvg1dig&s","action":"video:http://iptv.huuc.edu.cn/hls/channelv.m3u8"},
           {"title":"🔗CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://192.168.175.1/cgi-bin/kds.tw?cctv15"},
           {"title":"📻◎Beautiful Instrumentals Channel (Radio)","image":"","action":"audio:http://hydra.cdnstream.com/1822_128"},
           {"title":"Ʊ🎶🎼 ◎Classic Arts Showcase","image":"https://i.imgur.com/M6FFkc3.png","action":"video:https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"},
