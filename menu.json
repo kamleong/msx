@@ -133,6 +133,7 @@
           {"title":"*◎PBS KET World (480p)","image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png","action":"video:https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"},
           {"title":"Smithsonian Channel East","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://fl1.moveonjoy.com/Axs_TV/index.m3u8"},
           {"title":"Pluto TV Smithsonian Channel Selects (720p)","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
+          {"title":"🔗National Geographic","image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true","action":"video:http://192.168.108.75/cgi-bin/thetvapp.m3u?NationalGeographicEast"},
           {"title":"◎EarthxTV (720p)","image":"https://i.imgur.com/ZWWqiCb.png","action":"video:https://ov.ottera.tv/live/master.m3u8?channel=earth_et"},
           {"title":"◎WildEarth (1080p)","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://wildearth-roku.amagi.tv/masterR720P.m3u8"},
           {"title":"🏛️◎Museum TV Fast (1080p)","image":"https://i.imgur.com/zzVq7BQ.png","action":"video:https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8"}
