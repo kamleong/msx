@@ -302,6 +302,9 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
+          {"title":"ImeeOooi-PrajnaParamitaHrdayaSutram","icon":"volume-up","action":"audio:https://178-ctc-data.zhuanmi.net/direct/4e694eadbf10b51d1960f1b3ce119f2c/%E5%BF%83%E7%BB%8F%E6%A2%B5%E8%AF%AD%E7%89%88%28%E7%A8%8D%E5%BF%AB+%E9%BB%84%E6%85%A7%E9%9F%B3%29.mp3"},
+          {"title":"齊豫-懺悔文","icon":"music-note","action":"audio:http://www.buda.idv.tw/download.asp?file_serial_no=624#.mp3"},
+          {"title":"齐豫-忏悔文","icon":"queue-music","action":"audio:https://178-ctc-data.zhuanmi.net/direct/69a3a9a73ebec8b1e483768207e7922f/%E5%BF%8F%E6%82%94%28%E9%BD%90%E8%B1%AB+%E6%BC%94%E5%94%B1%29+%E6%AD%8C%E8%AF%8D%E5%87%BA%E8%87%AA%E6%99%AE%E8%B4%A4%E8%A1%8C%E6%84%BF%E5%93%81.mp3"},
           {"title":"书画频道","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/4/43/SHTV_logo.jpg/250px-SHTV_logo.jpg","action":"video:https://cors-proxy.cooks.fyi/http://211.103.180.178:8233/live_hls/hdmi.m3u8"},
           {"title":"◎PBS Kids","image":"https://i.imgur.com/EvrI7lk.png","action":"video:https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"},
           {"title":"📁 📖 iptv-org","icon":"live-tv","action":"video:https://kamleong.github.io/iptv-org.category.m3u"},
