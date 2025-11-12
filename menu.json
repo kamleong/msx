@@ -97,6 +97,7 @@
           {"title":"TV5 HD","image":"https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png","action":"video:https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"},
           {"title":"*◎Arirang - 763","image":"https://i.imgur.com/RuHZ6Dx.png","action":"video:https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
           {"title":"☑◎KBS World - 773","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:http://mytv.dothome.co.kr/ch/catv/7.php"},
+          {"title":"Fuji TV","image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png","action":"video:https://fujitv4.mov3.co/hls/fujitv.m3u8"},
           {"title":"✗台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0"},
           {"title":"◎WPS TV","image":"https://i.imgur.com/zwzmwse.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"},
           {"title":"◎WCVB-TV News Boston MA","image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png","action":"video:https://livetv-fa.tubi.video/wcvb/playlist.m3u8"},
@@ -131,12 +132,10 @@
           {"title":"*◎History Hit","image":"https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png","action":"video:https://timeline-samsung-uk.amagi.tv/playlist.m3u8"},
           {"title":"Pluto TV HISTORY (240p)","image":"https://i.imgur.com/XkQD5kM.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId="},
           {"title":"*◎PBS KET World (480p)","image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png","action":"video:https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"},
-          {"title":"Smithsonian Channel East","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://fl1.moveonjoy.com/Axs_TV/index.m3u8"},
+          {"title":"🏛️Smithsonian Channel East","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://fl1.moveonjoy.com/Axs_TV/index.m3u8"},
           {"title":"Pluto TV Smithsonian Channel Selects (720p)","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
           {"title":"🔗National Geographic","image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true","action":"video:https://tvpass.org/live/NationalGeographicEast/hd"},
-          {"title":"◎EarthxTV (720p)","image":"https://i.imgur.com/ZWWqiCb.png","action":"video:https://ov.ottera.tv/live/master.m3u8?channel=earth_et"},
-          {"title":"◎WildEarth (1080p)","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://wildearth-roku.amagi.tv/masterR720P.m3u8"},
-          {"title":"🏛️◎Museum TV Fast (1080p)","image":"https://i.imgur.com/zzVq7BQ.png","action":"video:https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8"}
+          {"title":"◎WildEarth","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://jmp2.uk/stvp-US3800007CR","action2":"video:https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8"}
        ]
      }
     },
