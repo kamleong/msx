@@ -36,8 +36,8 @@
           {"title":"鳳凰資訊.audio","image":"https://i.imgur.com/mt4h3VO.png","action":"audio:http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"},
           {"title":"🔗CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://192.168.175.1/cgi-bin/kds.tw?cctv15"},
           {"title":"AiFM","image":"https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png","action":"audio:https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"},
-          {"title":"☯太極氣功 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
-          {"title":"📹八段錦 (recorded)","image":"","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
+          {"title":"☯太極氣功 (recorded)","icon":"emoji-people","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
+          {"title":"㊇八段錦 (recorded)","icon":"accessibility","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
           {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
           {"title":"🔍ref🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
        ]
@@ -323,8 +323,8 @@
           {"title":"🅡","action":"video:http://192.168.108.75/cgi-bin/rx.m3u?mx1"},
           {"title":"🔗Local Proxy (CGI-cURL-sed)","icon":"stream","action":"video:http://192.168.175.1/cgi-bin/stream.m3u"},
           {"title":"🔗Local Restream (Nginx-HLS-RTMP-FFmpeg)","icon":"computer","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
-          {"title":"📹☼☉︎☯太極氣功 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
-          {"title":"📹⊙⊚◎⛢㊣八段錦 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},         
+          {"title":"☼☯太極氣功◎📹 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
+          {"title":"㊣⛢八段錦⊙⊚◎ (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
           {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
           {"title":"🔍ref🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
        ]
