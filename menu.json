@@ -1,5 +1,5 @@
 {
-  "action": "video:http://161.118.192.255/cgi-bin/stream.m3u8",
+  "action": "video:http://161.118.192.255/cgi-bin/stream.m3u",
   "headline": "Content",
   "menu": [
     {"icon": "live-tv", "label": "Main List",
