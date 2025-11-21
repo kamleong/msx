@@ -309,6 +309,7 @@
           "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
           "iconSize": "small", "icon": "msx-white-soft:minimize"
        }, "items": [
+          {"title":"⟳Refresh","icon":"refresh","action":"reload:menu"},
           {"title":"↶Reload","icon":"restart-alt","action":"reload"},
           {"title":"☰SubMenu","icon":"menu","action":"menu:http://161.118.192.255/msx/menu2.json"},
           {"title":"齊豫-懺悔文","icon":"music-note","action":"audio:https://download.buda.idv.tw/music/CHW02.mp3"},
@@ -327,7 +328,8 @@
           {"title":"🔗Local Restream (Nginx-HLS-RTMP-FFmpeg)","icon":"computer","action":"video:http://192.168.175.192:8080/hls/stream.m3u8"},
           {"title":"☁OCI Restream (httpd-FFmpeg)","icon":"cloud","action":"video:http://161.118.192.255/m3u/output.m3u8"},
           {"title":"☁OCI StaticImg","icon":"photo-camera-front","action":"video:http://161.118.192.255/m3u/img.m3u8"},
-          {"title":"☁OCI Img","icon":"photo","action":"image:http://161.118.192.255/m3u/_img.png"},
+          {"title":"🖼Img","icon":"photo","action":"image:https://msx.benzac.de/img/bg1.jpg"},
+          {"title":"📷Img","image":"https://msx.benzac.de/img/test.jpg","action":"image:context"},
           {"title":"☼☯太極氣功◎📹 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
           {"title":"㊣⛢八段錦⊙⊚◎ (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
           {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
