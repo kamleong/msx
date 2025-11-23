@@ -1,0 +1,35 @@
+654933e253fc970008390114,PlutoTV Universal Action
+61325c4f982acd000723287e,PlutoTV Classic TV Crime Drama
+https://8e6c868c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lQmVhdF9ITFM/playlist.m3u8,Crime Beat TV,,https://play-lh.googleusercontent.com/R9FyvR79FB3kN9bXeBB94ZJMm9Q-IKV2yCZpFiBCiQxS85wEpVQePqP6D65LH9I2Q7Vj=w240-h480
+http://161.118.192.255/cgi-bin/kds.tw?hitstv,🔗☑HITS,,https://i.imgur.com/IM8Gy1l.png
+62ea43aa0c43540007f2db96,PlutoTV Mission: Impossible
+5f77977bd924d80007eee60c,PlutoTV Mission: Impossible
+6549337183595c000815ad05,PlutoTV Murder, She Wrote
+68503d585965a2fd49fc2f0b,PlutoTV MacGyver
+68758038552299d2b08162e3,PlutoTV Law & Order
+5efbd29e4aa26700076c0d06,PlutoTV CSI
+63d000ef4e83e700086e0d6c,PlutoTV Scorpion
+63fe2ec4dff38e000835f786,PlutoTV Rookie Blue
+611e672d4676bf00076a3837,PlutoTV Baywatch
+5a66795ef91fef2c7031c599,PlutoTV Romance
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8,RakutenTV Romance Movies UK,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfLgpokHnks8glagD8f5SEH2aubwMjUxIkw&s
+5ba3fb9c4b078e0f37ad34e8,PlutoTV Spotlight
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8,RakutenTV Sci-Fi UK,,https://tmbroadcast.es/wp-content/uploads/2025/04/sci-fi-1024x576.jpg
+561d7d484dc7c8770484914a,PlutoTV Action
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8,🎬◎Action Hollywood Movies,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&usqp=CAU
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8,RakutenTV Family Movies UK,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nUOQoJtMUoDj8aPeVsD-F_OrVKYQR-q0qA&s
+https://tvpass.org/live/HBOFamilyEast/hd,HBO Family,,https://cdn.tvpassport.com/image/station/240x135/v2/s16585_h15_aa.png
+https://raw.githubusercontent.com/tummeng21/m3u8/refs/heads/main/HBOTHAI.m3u8,HBO,,https://www.hbo.com/img/icons/hbo.svg
+http://161.118.192.255/cgi-bin/kds.tw?hbo.sign,HBO Signature,,https://ia903102.us.archive.org/31/items/HboSignature/hbo%20signature.png
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8,Dunia Sinema HD,,https://i.postimg.cc/XqBwckyb/dunia-sinema.png
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1,澳門蓮花衛視,,https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg
+link:window:https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/matv/,🔍美亚电影台(普),,https://img.tiantianzhibo.net/tv/meiyadianying.jpg
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn,美亞電影台,,https://img.tiantianzhibo.net/tv/meiyadianying.jpg
+http://161.118.192.255/cgi-bin/kds.tw?etmovie,東森電影台,,https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png
+http://161.118.192.255/cgi-bin/kds.tw?vlmv,緯來電影台,,https://i0.wp.com/img.isuper.tv/live-tv/vl-movie-live.jpg
+http://iptv.huuc.edu.cn/hls/startv.m3u8,星光影视,,https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png
+https://k44991.kylintv.tv/live/yangtse_iphone.m3u8,长江剧场,,https://bkimg.cdn.bcebos.com/pic/060828381f30e924378bd43743086e061d95f78d
+http://php.jdshipin.com/smt.php?id=Celestial,天映頻道 (普),,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_OzV0u7iWefr-eGtR3KML5LK-0K5JgmSWKA&s
+http://php.jdshipin.com/smt.php?id=Celestial2,天映經典,,https://i.imgur.com/1VhXilw.png
+https://hn.bfvvs.com/play/yb8myz2d/index.m3u8,捕风追影,,
+
