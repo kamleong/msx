@@ -1,0 +1,37 @@
+{ "ref": "https://msx.benzac.de/wiki/index.php?title=Content_Root_Object",  
+  "type": "list", "type_": "pages|list", "headline": "List8",
+  "template": {          
+     "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+     "iconSize": "small", "icon": "msx-white-soft:minimize"
+  }, "items": [
+    {"title":"♫Music","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?music"},
+    {"title":"♪Songs","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?songs"},
+    {"title":"🔗CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
+    {"title":"星空音乐","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnk0USZAROMR-kSUE3fDOAieAnvv0Pvg1dig&s","action":"video:http://iptv.huuc.edu.cn/hls/channelv.m3u8"},
+    {"title":"📻◎Beautiful Instrumentals Channel (Radio)","image":"","action":"audio:http://hydra.cdnstream.com/1822_128"},
+    {"title":"Stingray Classica","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA400005W4_20240313T064721SQUARE.png","action":"video:https://d2rg1zjopmd8xe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ckvi539nbqdvf/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8"},
+    {"title":"Stingray Easy Listening","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200030YP_20240611T050143SQUARE.png","action":"video:https://ddvww1tcdlyrp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-18s6gls8lym14/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8"},
+    {"title":"Stingray Smooth Jazz","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200031NL_20240227T221218SQUARE.png_20240227221219.png","action":"video:https://d7dwykp2dcps0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vdletsupqql6k/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8"},
+    {"title":"◎Spirit TV","image":"https://i.ibb.co/gy6ZJrj/SPIRIT-TV.png","action":"video:https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8"},
+    {"title":"Heartland (Country Music) KVVB.TV 33.4","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9h0FO_6z6B38nQUdWSc020MLaQm_k6Ph6JA&s","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8"},
+    {"title":"Ʊ🎶🎼 ◎Classic Arts Showcase","image":"https://i.imgur.com/M6FFkc3.png","action":"video:https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"},
+    {"title":"🔗PlutoTV Sitcom Legends","image":"https://images.pluto.tv/channels/633354b63df9700007f6a1b7/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?633354b63df9700007f6a1b7"},
+    {"title":"🔗PlutoTV Comedy Central","image":"https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5ca671f215a62078d2ec0abf"},
+    {"title":"Comedy Dynamics","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvHpBnZxjqsxmnyziBV7Pjm8tcTlOSrP7og&s","action":"video:https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8"},
+    {"title":"🔗PlutoTV The Carol Burnett Show","image":"https://mediaplaynews.b-cdn.net/wp-content/uploads/2020/09/The-Carol-Burnett-Show-Cover-photo-2.png","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?62e91c8933682c000754fc45"},
+    {"title":"Women's Sport Network","image":"https://yt3.googleusercontent.com/rzdHKuTmShRr2nl7bSYqTw8FfI6LDTuZsWRR-_gzNQ7pBLyani6RcFGtP2ImSBpKgtVib79u=s900-c-k-c0x00ffffff-no-rj","action":"video:https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8"},
+    {"title":"PlutoTV The Amazing Race (720p)","image":"https://i.imgur.com/5yzPhRo.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f21e8a6e2f12b000755afdb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=297&terminate=false&userId="},
+    {"title":"◎Go USA","image":"https://i.imgur.com/x90ALip.png","action":"video:https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"},
+    {"title":"4K Travel","image":"https://stmify.com/wp-content/uploads/2024/11/354-s-150x84.webp","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8"},
+    {"title":"🏖◎TravelXP","image":"https://i.imgur.com/NZkPH1N.png","action":"video:https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8"},
+    {"title":"YTA (KVVB.TV 33.1)","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6UU4yhN8oWdrne3fp--1daM8Th8LnoCrCA&s","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-1309230-1/playlist.m3u8"},
+    {"title":"TVB J2","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/250px-TVB_J2.jpg","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=j2"},
+    {"title":"Dance Moms","image":"https://images-cdn4.welcomesoftware.com/assets/Dance+moms-hero.jpg/Zz0yYzlkM2M3MGExNDcxMWVmOGY5ZTZhZWI3ZTI5MDgwYg==?width=160","action":"video:https://livetv-fa.tubi.video/dance-moms/playlistR1080p.m3u8"},
+    {"title":"🔗Boomerang","image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true","action":"video:https://tvpass.org/live/Boomerang/hd"},
+    {"title":"🔗PlutoTV Retro Toons","image":"https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5c5c2b9d8002db3c3e0b1c6d"},
+    {"title":"🦸◎RetroCrush TV (1080p)","image":"https://play-lh.googleusercontent.com/0sGC_MLday5uTDFA7x0gzd2UUPTqex4P7XP1YCE2GGJsl8opuFNqdbywH-cqXo0iPWA=w240-h480","action":"video:https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8"},
+    {"title":"🐭◎Xtrema Retro Cartoons (360p)","image":"https://i.imgur.com/60ylWbQ.png","action":"video:https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8"},
+    {"title":"Cartoon Network","image":"https://variety.com/wp-content/uploads/2024/08/Cartoon-Network-logo.png","action":"video:https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8"},
+    {"title":"🔍哆啦A梦","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Doraemon_Charactor.jpg/250px-Doraemon_Charactor.jpg","action":"link:window:https://www.huya.com/11601963"}
+  ]
+}
