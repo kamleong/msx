@@ -1,5 +1,5 @@
 { "ref": "https://msx.benzac.de/wiki/index.php?title=Content_Root_Object",  
-  "type": "list", "type_": "pages|list", "headline": "List8",
+  "type": "list", "type_": "pages|list", "headline": "LiveStyle/Music/Travel/Variety/Entertainment",
   "template": {          
      "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
      "iconSize": "small", "icon": "msx-white-soft:minimize"
