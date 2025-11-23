@@ -1,0 +1,28 @@
+{ "ref": "https://msx.benzac.de/wiki/index.php?title=Content_Root_Object",
+  "type": "list", "type_": "pages|list", "headline": "Info/Docu",
+  "template": {          
+     "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+     "iconSize": "small", "icon": "msx-white-soft:minimize"
+  }, "items": [
+    {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://backup-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/TBh0bqsA9YuC3xgp/2cNkK7SbDyqrzLxo/chunks.m3u8"},
+    {"title":"*◎DW English - 1053","image":"https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
+    {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
+    {"title":"📻◎NPR (Radio)","icon":"radio","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
+    {"title":"☑◎United Nations Web TV","image":"https://photos.live-tv-channels.org/tv-logo/us-un-web-tv-6932.jpg","action":"video:https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"},
+    {"title":"TV BRICKS","image":"https://online-red.com/images/tv/tv-brics.png","action":"video:https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.ts.m3u8"},
+    {"title":"☑◎RT Doc","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png/800px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png","action":"video:https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8"},
+    {"title":"TED","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20240319T050809SQUARE.png","action":"video:https://dfkgbxmc5k111.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f9zk7d1li5oot/playlist.m3u8"},
+    {"title":"True History (720p)","image":"https://i.imgur.com/1BHDGXx.png","action":"video:https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"},
+    {"title":"*◎History Hit","image":"https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png","action":"video:https://timeline-samsung-uk.amagi.tv/playlist.m3u8"},
+    {"title":"Pluto TV HISTORY (240p)","image":"https://i.imgur.com/XkQD5kM.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId="},
+    {"title":"🔗PlutoTV Beyond History","image":"https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?62fb9844db5a4a0007ebc2a3"},
+    {"title":"🔗PlutoTV Modern Marvels","image":"https://images.pluto.tv/channels/6540ff2d770cf1000866b90a/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?6540ff2d770cf1000866b90a"},
+    {"title":"🔗PlutoTV Massive Makers","image":"https://images.pluto.tv/channels/66166ccaaec96800080f6b59/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?66166ccaaec96800080f6b59"},
+    {"title":"🔗PlutoTV Real Disaster Channel","image":"https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?64e89cfc9c1e3900084ca663"},
+    {"title":"*◎PBS KET World (480p)","image":"https://upload.wikimedia.org/wikipedia/commons/6/6b/PBSworld.png","action":"video:https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"},
+    {"title":"🏛️Smithsonian Channel East","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://fl1.moveonjoy.com/Axs_TV/index.m3u8"},
+    {"title":"Pluto TV Smithsonian Channel Selects (720p)","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
+    {"title":"National Geographic","image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true","action":"video:https://tvpass.org/live/NationalGeographicEast/hd"},
+    {"title":"◎WildEarth","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://jmp2.uk/stvp-US3800007CR","action2":"video:https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8"}
+  ]
+} 
