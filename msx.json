@@ -1,0 +1,44 @@
+#!/bin/sh
+# remove '&v=...&t=...' from ${QUERY_STRING}, appended by msx
+[ -z "$1" ] && q="${QUERY_STRING%%&*}" || q="$1" ; [ -z "$q" ] && q="songs"
+[ "$q" == "img" ] && t="🖼scenic/images⛵" && f="img.txt"
+[ "$q" == "music" ] && t="♪音樂♫" && f="music.txt"
+[ "$q" == "songs" ] && t="🎤歌曲🔉" && f="songs.txt"
+[ "$q" == "fiction" ] && t="🎬Movies/Series" && f="fiction.txt"
+
+echo "Content-Type: application/json"
+echo ""
+
+cat << EOT
+{"ref": "https://msx.benzac.de/wiki/index.php?title=Content_Root_Object",
+ "type": "list", "type_": "pages|list", "headline": "$t [$q]",
+ "template": {          
+   "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+   "iconSize": "small", "icon": "msx-white-soft:minimize"
+ }, "items": [
+   {"ref": "https://msx.benzac.de/wiki/index.php?title=Content_Item_Object",
+	"title":"⟳Refresh","icon":"refresh","action":"reload:content"
+   }
+EOT
+
+f="/home/opc/msx/$f"; [ -f "$f" ] || f="/dev/null"
+urly="plugin:http://msx.benzac.de/plugins/youtube.html?id="
+imgy="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg"
+urlp="http://161.118.192.255/cgi-bin/plutotv.m3u?"
+imgp="http://161.118.192.255/cgi-bin/plutotv.png?"
+# "shuf" vs "sort -R" # significantly slower
+shuf "$f" | while read line 
+do
+  [ -z "$line" ] || (
+    # "icon":"queue-music" "library-music" "music-video" "music-note"
+    # '{print " , {\"title\":\"" $2 "\",\"playerLabel\":\"" $2 " - " $3 "\",\"action\":\"video:" url $1 "\",\"image\":\"" img "\"}" }'
+    echo "$line" | awk -F'[\t,|]' -v urly="$urly" -v imgy="$imgy" -v urlp="$urlp" -v imgp="$imgp" '{print " , {\"title\":\"" ($2==""?"▤":$2) "\",\"playerLabel\":\"" ($2==""&&$3==""?"":$2" - "$3) "\",\"action\":\"" (match($1,/\.jpg$/)?"image:":"video:") (match($1,/^https?:\/\//)?"":(length($1)==11?urly:urlp))$1 "\",\"image\":\"" ($4==""?(match($1,/^https?:\/\//)?"":(length($1)==11?imgy:imgp$1)):$4) "\"}" }'
+  )
+done
+
+cat << EOT
+ ]
+}
+EOT
+
+exit 0
