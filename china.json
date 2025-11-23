@@ -1,0 +1,26 @@
+{ "ref": "https://msx.benzac.de/wiki/index.php?title=Content_Root_Object",
+  "type": "list", "type_": "pages|list", "headline": "中国大陆",
+  "template": {          
+     "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+     "iconSize": "small", "icon": "msx-white-soft:minimize"
+  }, "items": [
+    {"title":"☑◎CCTV-4 中文国际（美） Ⓢ","image":"https://i.imgur.com/1TPiRqR.png","action":"video:https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8"},
+    {"title":"CCTV-4 中文国际（亚）","image":"https://i0.wp.com/enjoytv.asia/wp-content/uploads/2021/05/CCTV-4-LOGO-final-copy-1.png","action":"video:https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8"},
+    {"title":"🔍𝄞CCTV-15音乐","image":"https://i.imgur.com/m2R60TJ.png","action":"link:window:https://tv.cctv.com/live/cctv15/"},
+    {"title":"🔗CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
+    {"title":"港台電視33-CCTV1","image":"https://archive.org/services/img/33-cctv-1_202304","action":"video:https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8"},
+    {"title":"📻◎佛山电台 (Radio)","icon":"radio","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
+    {"title":"🔗大湾区卫视","image":"https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg","action0":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8","action":"video:http://161.118.192.255/cgi-bin/kds.tw?gdtv51"},
+    {"title":"🔍广东卫视","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT911jliiEDKKoth6Hf7bOoIKDphcKqUfT9pA&s","action":"link:window:https://www.gdtv.cn/tvchanneldetail/43"},
+    {"title":"🔗北京卫视","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ33cQAsaEW0u2X6q1pxNA5dSwX8xOnkEnMA&s","action":"video:http://161.118.192.255/cgi-bin/kds.tw?brtv"},
+    {"title":"🔗东方卫视","image":"https://i.imgur.com/WqM6xnF.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?dragontv"},
+    {"title":"南京新闻综合","image":"https://www.tvchinese.net/uploads/tv/njxwzh.jpg","action":"video:https://yunlive.nbs.cn/live/2024njnews/playlist.m3u8"},
+    {"title":"◎上虞1新闻综合 (720p) [Not 24/7]","image":"https://img.tmuyun.com/assets/20210418/1618733884230_607beb3cb40eef3a71124d0d.png","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"},
+    {"title":"◎上虞3新商都 (720p) [Not 24/7]","image":"https://img.tmuyun.com/assets/20210418/1618733884230_607beb3cb40eef3a71124d0d.png","action":"video:http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8"},
+    {"title":"◎余姚1新闻综合 (576p)","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ5zUgNvvXn5Xu_JQaVJX5xr-z-QxOcSZzdQ&s","action":"video:http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"},
+    {"title":"◎松桃新闻","image":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8b/e7/ae/8be7ae1e-f01e-7a27-33a1-9d62df96bf8f/source/512x512bb.jpg","action":"video:http://live.strmtzx.cn/stxw/sd/live.m3u8"},
+    {"title":"◎三明1新闻综合 (720p) [Not 24/7]","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8yERWiQEL1kzvuAL9lIWotiF6bmFlSXshw&s","action":"video:http://stream.smntv.cn/smtv1/playlist.m3u8"},
+    {"title":"◎三明2公共 (720p) [Not 24/7]","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp8yERWiQEL1kzvuAL9lIWotiF6bmFlSXshw&s","action":"video:http://stream.smntv.cn/smtv2/playlist.m3u8"},
+    {"title":"◎云南文山新闻综合台 (1080p) [Not 24/7]","image":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaySPgvUEjNuOZv1NCAOKsZrH5PhmtW7dxxnvv4OgyrQLv5STm","action":"video:http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv"}
+  ]
+}
