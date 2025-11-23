@@ -1,0 +1,28 @@
+{ "ref": "https://msx.benzac.de/wiki/index.php?title=Content_Root_Object",
+  "type": "list", "type_": "pages|list", "headline": "Public/General",
+  "template": {          
+     "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
+     "iconSize": "small", "icon": "msx-white-soft:minimize"
+  }, "items": [
+    {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
+    {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action0":"video:http://cdn6.163189.xyz/163189/8tv","action":"video:http://php.jdshipin.com/smt.php?id=TV8"},
+    {"title":"🔍8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
+    {"title":"◎Nusantara TV (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png","action":"video:https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"},
+    {"title":"TV5 HD","image":"https://vignette.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png","action":"video:https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"},
+    {"title":"*◎Arirang - 763","image":"https://i.imgur.com/RuHZ6Dx.png","action":"video:https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"},
+    {"title":"☑◎KBS World - 773","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png","action":"video:http://mytv.dothome.co.kr/ch/catv/7.php"},
+    {"title":"Fuji TV","image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png","action":"video:https://fujitv4.mov3.co/hls/fujitv.m3u8"},
+    {"title":"✗台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0"},
+    {"title":"◎WPS TV","image":"https://i.imgur.com/zwzmwse.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"},
+    {"title":"◎WCVB-TV News Boston MA","image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png","action":"video:https://livetv-fa.tubi.video/wcvb/playlist.m3u8"},
+    {"title":"WFTX News Fort Myers FL","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png","action":"video:https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"},
+    {"title":"WPTV News West Palm Beach FL","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png","action":"video:https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"},
+    {"title":"WOLO-TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WOLO_25_2022.svg/250px-WOLO_25_2022.svg.png","action":"video:https://fl1.moveonjoy.com/ABC_EAST/index.m3u8"},
+    {"title":"ABC Tampa Bay 28","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-N_f6-QSnEsEQSrAfMztWEUfgVAJLNrs_ng&s","action":"video:https://livetv-fa.tubi.video/wfts2/playlist.m3u8"},
+    {"title":"☑◎Victor Valley TV","image":"https://i.imgur.com/zgiuNNj.png","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-5317556-1/playlist.m3u8"},
+    {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
+    {"title":"◎CBS 7 Seattle WA (KIRO)","image":"https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5A82A266-838C-4E90-B31F-8C32951F0A91/3-1x1.png/200","action":"video:https://livetv-fa.tubi.video/kiro/playlist.m3u8"},
+    {"title":"◎C31 Melbourne","image":"https://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"},
+    {"title":"◎C44 Adelaide","image":"https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192715/C44-logo.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"}
+  ]
+}
