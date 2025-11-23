@@ -40,8 +40,6 @@
          {"title":"鳳凰資訊.audio","image":"https://i.imgur.com/mt4h3VO.png","action":"audio:http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"},
          {"title":"🔗CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
          {"title":"AiFM","image":"https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png","action":"audio:https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"},
-         {"title":"☯太極氣功 (recorded)","icon":"emoji-people","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
-         {"title":"㊇八段錦 (recorded)","icon":"accessibility","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
          {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
          {"title":"🔍ref🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
       ]
@@ -335,10 +333,13 @@
          {"title":"☁OCI Restream (httpd-FFmpeg)","icon":"cloud","action":"video:http://161.118.192.255/m3u/output.m3u8"},
          {"title":"☁OCI StaticImg","icon":"photo-camera-front","action":"video:http://161.118.192.255/m3u/img.m3u8"},
          {"title":"🖼Img","icon":"photo","action":"image:https://msx.benzac.de/img/bg1.jpg"},
-         {"title":"📷Img","image":"https://msx.benzac.de/img/test.jpg","action":"image:context"},
-         {"title":"🖼","icon":"https://msx.benzac.de/img/test.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?scenic"},
-         {"title":"☼☯太極氣功◎📹 (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"},
-         {"title":"㊣⛢八段錦⊙⊚◎ (recorded)","icon":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"},
+         {"title":"📷Img","image":"https://msx.benzac.de/img/bg1.jpg","action":"image:context"},
+         {"title":"🖼","image":"https://msx.benzac.de/img/test.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?scenic"},
+         {"title":"☼☯太極氣功◎📹 (YouTube)","icon":"emoji-people","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=P-qEhLS8Md8",
+          "action0":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"
+         },{"title":"㊣⛢八段錦⊙⊚◎ (YouTube)","icon":"accessibility","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=Bewk1ML6WIE",
+          "icon0":"video-camera-back","action0":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"
+         },
          {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
          {"title":"🔍ref🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
       ]
