@@ -4,8 +4,9 @@
      "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
-    {"title":"♫Music","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?music"},
+    {"title":"♫mp3","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?mp3"},
     {"title":"♪Songs","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?songs"},
+    {"title":"♫Music","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?music"},
     {"title":"🔗CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
     {"title":"星空音乐","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnk0USZAROMR-kSUE3fDOAieAnvv0Pvg1dig&s","action":"video:http://iptv.huuc.edu.cn/hls/channelv.m3u8"},
     {"title":"📻◎Beautiful Instrumentals Channel (Radio)","image":"","action":"audio:http://hydra.cdnstream.com/1822_128"},
