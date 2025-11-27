@@ -17,6 +17,7 @@
     {"title":"🔍HOY TV 78台 (資訊台).web","image":"https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png","action":"link:window:https://www.iptv345.com/?act=play&token=ad6370f38fd43b2fb21eac27e65146db&tid=gt&id=11"},
     {"title":"✗ ☑HOY TV - 77台","image":"https://d2xfs6sovnvkw9.cloudfront.net/wp-content/uploads/2022/10/18010434/fav_icon-1.png","action":"video:https://timetv.shop/http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8"},
     {"title":"🔍TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"link:window:https://v1.welife6.com/channels/tvb-news-channel/"},
+    {"title":"🔗TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?tvbnews"},
     {"title":"🔗 📺TVB Jade (翡翠台) (720p)","image":"https://static.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?tvb"},
     {"title":"TVB J2","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/250px-TVB_J2.jpg","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=j2"},
     {"title":"◎面包台","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9RZ1YzyH4zWN72lWzm3fGCNORQ3ARLd0_g&s","action":"video:https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"},
