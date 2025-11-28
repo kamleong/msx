@@ -19,7 +19,7 @@
     {"title":"Africanews English - 1051","image":"https://i.imgur.com/xocvePC.png","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8"},
     {"title":"France 24 English - 1052","image":"https://i.imgur.com/61MSiq9.png","action":"video:https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8"},
     {"title":"*◎DW English - 1053","image":"https://i.imgur.com/A1xzjOI.png","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
-    {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://backup-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/TBh0bqsA9YuC3xgp/2cNkK7SbDyqrzLxo/chunks.m3u8"},
+    {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?nhkworld"},
     {"title":"◎Bloomberg TV Asia (720p)","image":"https://i.imgur.com/OuogLHx.png","action":"video:https://bloomberg.com/media-manifest/streams/asia.m3u8"},
     {"title":"Astro Awani (720p)","image":"https://i.imgur.com/dLzgBUj.png","action":"video:https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"},
     {"title":"BERNAMA","image":"https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5"},
