@@ -36,6 +36,7 @@
          {"title":"Mission: Impossible","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
          {"title":"MacGyver","image":"https://images.pluto.tv/channels/68503d585965a2fd49fc2f0b/colorLogoPNG.png","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?68503d585965a2fd49fc2f0b"},
          {"title":"CSI","image":"https://i.imgur.com/xLLNEfA.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
+         {"title":"PlutoTV","image":"https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?plutotv"},
          {"title":"鳳凰衛視.audio","image":"https://i.imgur.com/rwY7FHT.png","action":"audio:http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8"},
          {"title":"鳳凰資訊.audio","image":"https://i.imgur.com/mt4h3VO.png","action":"audio:http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"},
          {"title":"🔗CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
