@@ -1,0 +1,217 @@
+#!/bin/sh
+# remove '&v=...&t=...' from ${QUERY_STRING}, appended by msx
+[ -z "$1" ] && q="${QUERY_STRING%%&*}" || q="$1" ; [ -z "$q" ] && q="songs"
+[ "$q" == "music" ] && t="♪音樂♫" && f="music.txt"
+[ "$q" == "songs" ] && t="🎤歌曲🔉" && f="songs.txt"
+
+echo "Content-Type: text/html"
+echo ""
+
+cat << EOT
+<html>
+  <head>
+   <title>$t</title>
+   <script src="https://www.youtube.com/iframe_api"></script>
+   <script>
+     // ref: https://developers.google.com/youtube/iframe_api_reference
+     var rmUnavlEmbIfrm = true;
+     var latestReadyPlayer = null;
+
+     function onPlayerReady(event) {
+       // The player is ready. You can now interact with it.
+       // For example, to start playing: event.target.playVideo(); | .stopVideo(); | .setVolume(100); | .getVideoEmbedCode();
+       //alert("OK");
+       var player = event.target; latestReadyPlayer = player;
+       var iframe = player.getIframe();  var embedCode = player.getVideoEmbedCode();
+       if (iframe.title == "YouTube video player") { // embedCode.includes('title=""')
+         //alert(embedCode);
+         if ( rmUnavlEmbIfrm ) {
+           //alert("removing ...");
+           iframe.remove();
+         }
+       } else {
+         iframe._title = iframe.title; // keep the title as it may reset later
+         //alert(iframe.title);
+         var opt = document.createElement('option'); opt.value = player.getIframe().id; opt.textContent = iframe._title;
+         var playlist = document.getElementById('playlist'); playlist.appendChild(opt);
+         if (playlist.options.length == 1) {
+           // YouTube does not allow unmuted videos to autoplay without user interaction !!
+           // player.mute(); // this allow to play in mute, but it will stop when unmute via code
+           player.playVideo(); // this will only work when autoplay is enabled
+
+           //playlist.selectedIndex = 0; playlist.value = playlist.options[0].value; // ensure the value is updated
+           //setTimeout(unMuteSelected, 10000); // this will actually stop the video when there is still no user interaction yet!!
+           //alert("playfirst");
+           //playSelected(); // will not work here when some other iframe not fully loaded yet!!
+           //setTimeout(playSelected, 3000);
+           //document.getElementById('playSelected').click();
+         }
+       }
+     }
+
+     function onPlayerStateChange(event) {
+       // Handle player state changes (e.g., playing, paused, ended)
+       // event.data == YT.PlayerState.ENDED | YT.PlayerState.PLAYING
+       if ( event.data == YT.PlayerState.ENDED ) {
+         //alert("play next ...");
+         playNext();
+       }
+     }
+
+     function loadAll() {
+       //alert("OK");
+       divs = document.getElementsByTagName("div");
+       //alert("total=" + divs.length);
+       for (let ii=0; ii<divs.length; ii++) {
+         //alert(ii+" : "+divs[ii].id);
+         try {
+           // for some reason, max 2 player objects only, will exit loop on the 3rd !!!
+           divs[ii].player = new YT.Player(divs[ii].id, {
+             videoId: "3u6LLQzMcDE", // divs[ii].id, // "3u6LLQzMcDE",
+             width: '256', height: '144',
+             playerVars: {
+               'autoplay': 0, // Set to 1 for automatic playback on load
+               'controls': 1, // Show player controls
+               'start': 0 // Start time in seconds
+             },
+             events: {
+               'onReady': onPlayerReady,
+               'onStateChange': onPlayerStateChange
+             }
+           });
+           //alert(ii);
+           //divs[ii].player.playVideo();
+         } catch(e) {}
+         //break;
+       }
+     }
+
+     function onYouTubeIframeAPIReady() {
+       //alert("onYouTubeIframeAPIReady");
+       var iframes = document.getElementsByTagName("iframe");
+       //alert("total=" + iframes.length);
+       for (let ii=0; ii<iframes.length; ii++) {
+         //alert(ii+" : "+iframes[ii].id);
+         iframes[ii].player = new YT.Player(iframes[ii].id, {
+           events: {
+             'onReady': onPlayerReady,
+             'onStateChange': onPlayerStateChange
+           }
+         });
+         //alert(ii);
+         //iframes[ii].player.playVideo();
+         //break;
+       }
+     }
+
+     function unMuteSelected() {
+       //alert("unMuteSelected : "+playlist.value);
+       var player = document.getElementById(playlist.value).player;
+       player.unMute(); // this will stop the video when there has not been any user interaction !!
+     }
+
+     function playSelected() {
+       var playlist = document.getElementById('playlist');
+       //alert("playSelected : "+playlist.value);
+       try {
+         var player = document.getElementById(playlist.value).player;
+         var iframe = player.getIframe(); // alert( iframe.title ); alert( player.getVideoEmbedCode() );
+         player.unMute(); player.playVideo();
+       } catch(e) {}
+     }
+
+     function playNext() {
+       var playlist = document.getElementById('playlist');
+       if (playlist.options.length <= 0) { return; }
+       var s = playlist.selectedIndex; if (s < 0) s = 0;
+       document.getElementById(playlist.options[s].value).player.stopVideo();
+       var n = s+1; if (n >= playlist.options.length) n = 0;
+       playlist.selectedIndex = n;
+       //alert(s+":"+n+":"+playlist.value);
+       var iframe = document.getElementById(playlist.options[n].value);
+       if (
+        (iframe._title && iframe._title.length > 0)
+         || (iframe.title && iframe.title.length > 0 && iframe.title != "YouTube video player")
+       ) {
+         playSelected();
+       } else {
+         playlist.remove(n);
+         if (playlist.options.length <= 0) { return; }
+         playlist.selectedIndex = s-1;
+         playNext();
+       }
+     }
+
+     function stopAll() {
+       var playlist = document.getElementById('playlist');
+       for (let opt of playlist.options) {
+         try {
+           document.getElementById(opt.value).player.stopVideo();
+         } catch(e) {}
+       }
+     }
+
+     function resetDropdown() {
+       var iframes = document.getElementsByTagName("iframe");
+       //alert("total=" + iframes.length);
+       for (let ii=iframes.length-1; ii>=0; ii--) {
+         if (iframes[ii].title.length > 0 && iframes[ii].title != "YouTube video player") {
+           iframes[ii]._title = iframes[ii].title; // keep the title as it reset when the dropdown is being reset
+         } else if ( !(iframes[ii]._title && iframes[ii]._title.length > 0) ) {
+           if ( rmUnavlEmbIfrm ) { iframes[ii].remove(); }
+         }
+       }
+       var playlist = document.getElementById('playlist');
+       stopAll(); for (let ii=playlist.options.length-1; ii>=0; ii--) playlist.remove(ii);
+       for (let ii=0; ii<iframes.length; ii++) {
+         if (iframes[ii]._title && iframes[ii]._title.length > 0) {
+           //alert(iframes[ii].title);
+           var opt = document.createElement('option'); opt.value = iframes[ii].id; opt.textContent = iframes[ii]._title;
+           playlist.appendChild(opt);
+         }
+       }
+     }
+
+     function startPlay() {
+       // YouTube does not allow unmuted videos to autoplay without user interaction !!
+       // document.getElementById('playSelected').click(); // even this click will not be treated as a real user interaction !!
+     }
+
+     function onLoad() {
+       //alert("onLoad");
+       //setTimeout(startPlay, 3000);
+     }
+   </script>
+  </head>
+<body onload="onLoad();">
+<select id="playlist"></select>
+<input id="playSelected" type=button value="play" onclick="playSelected()">
+<input type=button value="unMuteSelected" onclick="unMuteSelected()">
+<input type=button value="playNext" onclick="playNext()">
+<input type=button value="stopAll" onclick="stopAll()">
+<input type=button value="resetDropdown" onclick="resetDropdown()">
+<br><br>
+EOT
+
+url0="http://161.118.192.255"
+url="https://www.youtube.com/embed/"
+
+f="/home/opc/msx/$f"; [ -f "$f" ] || f="/dev/null"
+# "shuf" vs "sort -R" # significantly slower
+shuf "$f" | head -n 100 | while read line
+do
+  [ ! -z "$line" ] && [ ${line:0:1} != '#' ] && (
+    echo "$line" | awk -F'[\t,|]' -v q="$q" \
+      -v url="$url" -v url0="$url0" \
+      '{ if (length($1)<=11) print "<iframe id=\"" $1 "\" src=\"" url $1 "?mute=0&enablejsapi=1&origin=" url0 "\"></iframe>" }'
+      # print "<div id=\"" $1 "\" style=\"float:left;\"></div>"
+      # print "<iframe id=\"" $1 "\" src=\"" url $1 "?enablejsapi=1&origin=" url0 "\"></iframe>"
+  )
+done
+
+cat << EOT
+</body>
+</html>
+EOT
+
+exit 0
