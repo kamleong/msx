@@ -49,7 +49,7 @@ shuf "$f" | head -n 100 | awk -F'[\t,|]' -v q="$q" \
   -v urly="$urly" -v imgy="$imgy" \
   -v urld="$urld" -v imgd="$imgd" \
   -v urlp="$urlp" -v imgp="$imgp" \
-  '(NF && /^[^#]/)  { print " , {" (NR==1?autoplay:"") "\"title\":\"" ($2==""?"▤":$2) "\",\"playerLabel\":\"" ($2==""&&$3==""?"":$2" - "$3) "\",\"image\":\""black"\",\"action\":\"" (q=="mp3"?"audio:":(match($1,/\.jpg$/)?"image:":"video:")) (match($1,/^https?:\/\//)?"":(length($1)<=11?urly:urlp))$1 "\",\"image\":\"" ($4==""?(match($1,/^https?:\/\//)?"":(length($1)<=11?imgy:imgp$1)):$4) "\"}" }'
+  '(NF && /^[^#]/) { print " , {" (++i>1?"":autoplay) "\"title\":\"" ($2==""?"▤":$2) "\",\"playerLabel\":\"" ($2==""&&$3==""?"":$2" - "$3) "\",\"image\":\""black"\",\"action\":\"" (q=="mp3"?"audio:":(match($1,/\.jpg$/)?"image:":"video:")) (match($1,/^https?:\/\//)?"":(length($1)<=11?urly:urlp))$1 "\",\"image\":\"" ($4==""?(match($1,/^https?:\/\//)?"":(length($1)<=11?imgy:imgp$1)):$4) "\"}" }'
 
   # "icon":"queue-music" "library-music" "music-video" "music-note"
   # '{print " , {\"title\":\"" $2 "\",\"playerLabel\":\"" $2 " - " $3 "\",\"action\":\"video:" url $1 "\",\"image\":\"" img "\"}" }'
