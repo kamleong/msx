@@ -37,6 +37,7 @@
          {"title":"ABC News (USA)","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
          {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
          {"title":"History Hit","image":"https://image.roku.com/developer_channels/prod/9f47f6e9e073f90dda50841afe557a29b9e6a1c7bcf5470fe9e3bbd6b07ac275.png","action":"video:https://timeline-samsung-uk.amagi.tv/playlist.m3u8"},
+         {"title":"Tubi","image":"https://corporate.tubitv.com/wp-content/uploads/2020/03/tubi.jpg","action":"content:http://161.118.192.255/cgi-bin/tvpass.json?tubi"},
          {"title":"TVpass.org","image":"https://www.kodi-guide.com/wp-content/uploads/2023/05/thetvapp-kodi-addon-icon.jpg","action":"content:http://161.118.192.255/cgi-bin/tvpass.json?tvpass"},
          {"title":"PlutoTV","image":"https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?plutotv"},
          {"title":"Mission: Impossible","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
