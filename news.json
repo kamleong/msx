@@ -4,6 +4,7 @@
      "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
+    {"title":"YouTube Live","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"content:http://161.118.192.255/cgi-bin/msx.json?youtube.live"},
     {"title":"CNA","image":"https://i.imgur.com/xWglicB.png","action":"video:https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
     {"title":"*🔭◎Al Jazeera English Ⓢ","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje-gcp.thehlive.com/AJE/05.m3u8"},
     {"title":"☑◎TRT World - 934","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
