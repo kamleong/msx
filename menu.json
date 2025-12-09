@@ -40,7 +40,9 @@
          {"title":"Tubi","image":"https://corporate.tubitv.com/wp-content/uploads/2020/03/tubi.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?tubi"},
          {"title":"MoveOnJoy","icon":"remove-from-queue","icon0":"video-collection","action":"content:http://161.118.192.255/cgi-bin/msx.json?moveonjoy"},
          {"title":"TVpass.org","image":"https://www.kodi-guide.com/wp-content/uploads/2023/05/thetvapp-kodi-addon-icon.jpg","action":"content:http://161.118.192.255/cgi-bin/tvpass.json?tvpass"},
-         {"title":"PlutoTV","image":"https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?plutotv"},
+         {"title":"☰IPTV","icon":"menu","action":"menu:http://161.118.192.255/msx/iptv.json"},
+          "title0":"PlutoTV","image0":"https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg","action0":"content:http://161.118.192.255/cgi-bin/msx.json?plutotv"
+         },
          {"title":"Mission: Impossible","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
          {"title":"MacGyver","image":"https://images.pluto.tv/channels/68503d585965a2fd49fc2f0b/colorLogoPNG.png","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?68503d585965a2fd49fc2f0b"},
          {"title":"CSI","image":"https://i.imgur.com/xLLNEfA.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
