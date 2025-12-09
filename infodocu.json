@@ -23,6 +23,7 @@
     {"title":"🏛️Smithsonian Channel East","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://fl1.moveonjoy.com/Axs_TV/index.m3u8"},
     {"title":"Pluto TV Smithsonian Channel Selects (720p)","image":"https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
     {"title":"National Geographic","image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/national-geographic-us.png?raw=true","action":"video:https://tvpass.org/live/NationalGeographicEast/hd"},
-    {"title":"◎WildEarth","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://jmp2.uk/stvp-US3800007CR","action2":"video:https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8"}
+    {"title":"◎WildEarth","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://jmp2.uk/stvp-US3800007CR","action2":"video:https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8"}，
+    {"title":"YouTube Live","image":"https://media.idownloadblog.com/wp-content/uploads/2022/04/Live-stream-YouTube.png","image0":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"content:http://161.118.192.255/cgi-bin/msx.json?youtube.live"}
   ]
 } 
