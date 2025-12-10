@@ -30,7 +30,10 @@
     },{"title":"㊣⛢八段錦⊙⊚◎ (YouTube)","icon":"accessibility","action0":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=Bewk1ML6WIE",
      "icon0":"video-camera-back","action":"video:https://drive.google.com/uc?export=download&id=1JwfAdIYccaoyV2LExM2cZfzNEsXypQdv&video.mp4"
     },
-    {"title":"YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
+    {"title":"YouTube","image0":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg",
+     "badge": "{txt:msx-white:Ⓨ}", "badgeColor": "#ff0000",
+     "action":"system:tizen:launch:111299001912"
+    },
     {"title":"🔍ref🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
   ]
 }
