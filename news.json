@@ -28,7 +28,7 @@
     {"title":"CCTN Philippines","image":"https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png","action":"video:http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"},
     {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
     {"title":"Ⓨ鳳凰衛視資訊台","image":"https://i.imgur.com/mt4h3VO.png","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=fN9uYWCjQaw","action0":"video:http://161.118.192.255/cgi-bin/kds.tw?fhk.zx"},
-    {"title":"ⓎGlobal News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=6IquAgfvYmc","action0":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews"},
+    {"title":"🔗Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=6IquAgfvYmc"},
     {"title":"Ⓨ公視新聞","image":"https://i.ytimg.com/vi/quwqlazU-c8/hqdefault.jpg","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=quwqlazU-c8"},
     {"title":"TTV News (台視新聞台)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
     {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
