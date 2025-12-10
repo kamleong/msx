@@ -25,7 +25,7 @@
          {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
          {"title":"TRT World","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
          {"title":"Euronews English","image":"https://i.imgur.com/8MsbPCU.png","action":"video:https://livetv-fa.tubi.video/euronews2/euronews-en.m3u8"},
-         {"title":"🔗Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews"},
+         {"title":"ⓎGlobal News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action":"plugin:http://msx.benzac.de/plugins/youtube.html?id=6IquAgfvYmc","action0":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews"},
          {"title":"台視新聞台 (TTV News)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
          {"title":"民視新聞台 (FTV News)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
          {"title":"華視 (CTS)","image":"https://i.imgur.com/ISl9WsI.png","action":"video:https://k44991.kylintv.tv/live/ctshd_iphone.m3u8"},
@@ -40,7 +40,7 @@
          {"title":"Tubi","image":"https://corporate.tubitv.com/wp-content/uploads/2020/03/tubi.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?tubi"},
          {"title":"MoveOnJoy","icon":"remove-from-queue","icon0":"video-collection","action":"content:http://161.118.192.255/cgi-bin/msx.json?moveonjoy"},
          {"title":"TVpass.org","image":"https://www.kodi-guide.com/wp-content/uploads/2023/05/thetvapp-kodi-addon-icon.jpg","action":"content:http://161.118.192.255/cgi-bin/tvpass.json?tvpass"},
-         {"title":"☰IPTV","icon":"menu","action":"menu:http://161.118.192.255/msx/iptv.json",
+         {"title":"☰IPTV","icon":"connected-tv","icon0":"menu","action":"menu:http://161.118.192.255/msx/iptv.json",
           "title0":"PlutoTV","image0":"https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg","action0":"content:http://161.118.192.255/cgi-bin/msx.json?plutotv"
          },
          {"title":"Mission: Impossible","image":"https://i.imgur.com/QS5lg0t.png","action":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77977bd924d80007eee60c/master.m3u8?appVersion=0&deviceDNT=1&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0"},
