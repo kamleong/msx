@@ -28,6 +28,7 @@ EOT
 
 urly="plugin:http://msx.benzac.de/plugins/youtube.html?id="
 imgy="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg"
+imgy1="https://i.ytimg.com/vi/" ; imgy2="/hqdefault.jpg"
 urld="plugin:http://msx.benzac.de/plugins/dailymotion.html?id"
 imgd=""
 urlp="http://161.118.192.255/cgi-bin/plutotv.m3u?"
@@ -45,11 +46,11 @@ f="/home/opc/msx/$f"; [ -f "$f" ] || f="/dev/null"
 
 shuf "$f" | head -n 100 | awk -F'[\t,|]' -v q="$q" \
   -v autoplay='"focus":true,"execute":true,' \
-  -v black='http://161.118.192.255/msx/black.svg' \
-  -v urly="$urly" -v imgy="$imgy" \
+  -v bgimg='"background":"http://161.118.192.255/msx/black.svg",' \
+  -v urly="$urly" -v imgy="$imgy" -v imgy1="$imgy1" -v imgy2="$imgy2" \
   -v urld="$urld" -v imgd="$imgd" \
   -v urlp="$urlp" -v imgp="$imgp" \
-  '(NF && /^[^#]/) { print " , {" (++i>1?"":autoplay) "\"title\":\"" ($2==""?"▤":$2) "\",\"playerLabel\":\"" ($2==""&&$3==""?"":$2" - "$3) "\",\"image\":\""black"\",\"action\":\"" (q=="mp3"?"audio:":(match($1,/\.jpg$/)?"image:":"video:")) (match($1,/^https?:\/\//)?"":(length($1)<=11?urly:urlp))$1 "\",\"image\":\"" ($4==""?(match($1,/^https?:\/\//)?"":(length($1)<=11?imgy:imgp$1)):$4) "\"}" }'
+  '(NF && /^[^#]/) { print " , {" (++i>1?"":autoplay) "\"title\":\"" ($2==""?"▤":$2) "\",\"playerLabel\":\"" ($2==""&&$3==""?"":$2" - "$3) "\"," bgimg "\"action\":\"" (q=="mp3"?"audio:":(match($1,/\.jpg$/)?"image:":"video:")) (match($1,/^https?:\/\//)?"":(length($1)<=11?urly:urlp))$1 "\",\"image\":\"" ($4==""?(match($1,/^https?:\/\//)?"":(length($1)<=11?imgy1$1imgy2:imgp$1)):$4) "\"}" }'
 
   # "icon":"queue-music" "library-music" "music-video" "music-note"
   # '{print " , {\"title\":\"" $2 "\",\"playerLabel\":\"" $2 " - " $3 "\",\"action\":\"video:" url $1 "\",\"image\":\"" img "\"}" }'
