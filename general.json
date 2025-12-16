@@ -14,14 +14,14 @@
     {"title":"Fuji TV","image":"https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png","action":"video:https://fujitv4.mov3.co/hls/fujitv.m3u8"},
     {"title":"✗台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0"},
     {"title":"◎WPS TV","image":"https://i.imgur.com/zwzmwse.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"},
-    {"title":"◎WCVB-TV News Boston MA","image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png","action":"video:https://livetv-fa.tubi.video/wcvb/playlist.m3u8"},
+    {"title":"ⓣ◎WCVB-TV News Boston MA","image":"https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/WCVB-TV_%282021%29.svg/512px-WCVB-TV_%282021%29.svg.png","action":"video:https://livetv-fa.tubi.video/wcvb/playlist.m3u8"},
     {"title":"WFTX News Fort Myers FL","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png","action":"video:https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"},
     {"title":"WPTV News West Palm Beach FL","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png","action":"video:https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"},
-    {"title":"WOLO-TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WOLO_25_2022.svg/250px-WOLO_25_2022.svg.png","action":"video:https://fl1.moveonjoy.com/ABC_EAST/index.m3u8"},
-    {"title":"ABC Tampa Bay 28","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-N_f6-QSnEsEQSrAfMztWEUfgVAJLNrs_ng&s","action":"video:https://livetv-fa.tubi.video/wfts2/playlist.m3u8"},
+    {"title":"⒨WOLO-TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WOLO_25_2022.svg/250px-WOLO_25_2022.svg.png","action":"video:https://fl1.moveonjoy.com/ABC_EAST/index.m3u8"},
+    {"title":"ⓣABC Tampa Bay 28","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-N_f6-QSnEsEQSrAfMztWEUfgVAJLNrs_ng&s","action":"video:https://livetv-fa.tubi.video/wfts2/playlist.m3u8"},
     {"title":"☑◎Victor Valley TV","image":"https://i.imgur.com/zgiuNNj.png","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-5317556-1/playlist.m3u8"},
     {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
-    {"title":"◎CBS 7 Seattle WA (KIRO)","image":"https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5A82A266-838C-4E90-B31F-8C32951F0A91/3-1x1.png/200","action":"video:https://livetv-fa.tubi.video/kiro/playlist.m3u8"},
+    {"title":"ⓣ◎CBS 7 Seattle WA (KIRO)","image":"https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5A82A266-838C-4E90-B31F-8C32951F0A91/3-1x1.png/200","action":"video:https://livetv-fa.tubi.video/kiro/playlist.m3u8"},
     {"title":"◎C31 Melbourne","image":"https://c31.org.au/wp-content/uploads/2019/06/C31-Logo-White-New.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"},
     {"title":"◎C44 Adelaide","image":"https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192715/C44-logo.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"}
   ]
