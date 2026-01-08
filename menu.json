@@ -24,7 +24,7 @@
          {"title":"Al Jazeera English","image":"https://i.imgur.com/BB93NQP.png","action":"video:https://live-hls-web-aje-gcp.thehlive.com/AJE/05.m3u8"},
          {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
          {"title":"TRT World","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
-         {"title":"Euronews English","image":"https://i.imgur.com/8MsbPCU.png","action":"video:https://livetv-fa.tubi.video/euronews2/euronews-en.m3u8"},
+         {"title":"Euronews English","image":"https://i.imgur.com/8MsbPCU.png","action":"video:https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8"},
          {"title":"▸Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action0":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=6IquAgfvYmc","action":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews"},
          {"title":"🆈公視新聞","image":"https://i.ytimg.com/vi/quwqlazU-c8/hqdefault.jpg","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=quwqlazU-c8"},
          {"title":"台視新聞台 (TTV News)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
