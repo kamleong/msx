@@ -4,7 +4,7 @@
      "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
-    {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://backup-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/TBh0bqsA9YuC3xgp/2cNkK7SbDyqrzLxo/chunks.m3u8"},
+    {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8"},
     {"title":"*◎DW English - 1053","image":"https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
     {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
     {"title":"📻◎NPR (Radio)","icon":"radio","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
