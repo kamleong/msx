@@ -54,7 +54,7 @@
          {"title":"鳳凰資訊.audio","image":"https://i.imgur.com/mt4h3VO.png","action":"audio:http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8"},
          {"title":"AiFM","image":"https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png","action":"audio:https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac"},
          {"title":"➥YouTube","image":"https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg","action":"system:tizen:launch:111299001912"},
-         {"title":"➥ref🔍🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
+         {"title":"➲ref🔍🌐🪐","action":"link:window:https://msx.benzac.de/wiki/index.php?title=Actions"}
       ]
     }
    },
