@@ -35,7 +35,7 @@
     {"title":"▸Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews","action0":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=6IquAgfvYmc"},
     {"title":"🆈公視新聞","image":"https://i.ytimg.com/vi/quwqlazU-c8/hqdefault.jpg","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=quwqlazU-c8"},
     {"title":"TTV News (台視新聞台)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
-    {"title":"TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt"},
+    {"title":"TVB News Channel (無綫新聞台)","image":"https://i.imgur.com/Gwij0Fj.png","action":"video:http://r.jdshipin.com/CkuBd"},
     {"title":"🆈鳳凰衛視資訊台","image":"https://i.imgur.com/mt4h3VO.png","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=fN9uYWCjQaw","action0":"video:http://161.118.192.255/cgi-bin/kds.tw?fhk.zx"},
     {"title":"Astro Awani (720p)","image":"https://i.imgur.com/dLzgBUj.png","action":"video:https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"},
     {"title":"BERNAMA","image":"https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b1096000_slENG.m3u8?id=5"},
