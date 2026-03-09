@@ -12,6 +12,7 @@
       }, "items": [
          {"ref": "https://msx.benzac.de/wiki/index.php?title=Content_Item_Object",
           "title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",
+          "iptv-org":"https://iptv-org.github.io/channels/my/8TV",
           "action":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"
          },
          {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
@@ -25,8 +26,9 @@
          {"title":"BBC News (International)","image":"https://i.imgur.com/joD38lo.png","action":"video:https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"},
          {"title":"TRT World","image":"https://i.imgur.com/JEA2xpv.png","action":"video:https://tv-trtworld.medya.trt.com.tr/master.m3u8"},
          {"title":"Euronews English","image":"https://i.imgur.com/8MsbPCU.png","action":"video:https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8"},
-         {"title":"ABC News (USA)","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
          {"display":false,"title":"France 24 English - 1052","image":"https://i.imgur.com/61MSiq9.png","action":"video:https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8"},
+         {"title":"ⓣABC News (USA)","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8"},
+         {"display":false,"title":"ⓟScripps News 2600","image":"http://161.118.192.255/cgi-bin/plutotv.png?5459795fc9f133a519bc0bef","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5459795fc9f133a519bc0bef"},
          {"title":"▸Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action0":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=6IquAgfvYmc","action":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews"},
          {"title":"🆈公視新聞","image":"https://i.ytimg.com/vi/quwqlazU-c8/hqdefault.jpg","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=quwqlazU-c8"},
          {"title":"台視新聞台 (TTV News)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
