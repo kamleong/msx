@@ -8,7 +8,7 @@
     {"title":"CCTV-4 中文国际（亚）","image":"https://i0.wp.com/enjoytv.asia/wp-content/uploads/2021/05/CCTV-4-LOGO-final-copy-1.png","action":"video:https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8"},
     {"title":"➲𝄞CCTV-15音乐","image":"https://i.imgur.com/m2R60TJ.png","action":"link:window:https://tv.cctv.com/live/cctv15/"},
     {"title":"▸CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
-    {"title":"港台電視33-CCTV1","image":"https://archive.org/services/img/33-cctv-1_202304","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=rthk32","action0":"video:https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8"},
+    {"title":"港台電視33-CCTV1","image":"https://archive.org/services/img/33-cctv-1_202304","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=rthk33","action0":"video:https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8"},
     {"title":"📻◎佛山电台 (Radio)","icon":"radio","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
     {"title":"▸大湾区卫视","image":"https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg","action0":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8","action":"video:http://161.118.192.255/cgi-bin/kds.tw?gdtv51"},
     {"title":"➲广东卫视","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT911jliiEDKKoth6Hf7bOoIKDphcKqUfT9pA&s","action":"link:window:https://www.gdtv.cn/tvchanneldetail/43"},
