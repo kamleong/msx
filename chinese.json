@@ -30,7 +30,7 @@
     {"title":"FTV News (民視新聞台)","image":"https://i.imgur.com/j9Gebr5.png","action":"video:http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"},
     {"title":"EBC News (東森新聞台)","image":"https://i.imgur.com/QFZs80p.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?ettvnews"},
     {"title":"▸Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews"},
-    {"title":"✗ *台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0"},
+    {"title":"🔗台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?pts"},
     {"title":"小公視","image":"https://ptsxs.pts.org.tw/uploads/site/site_logo/6687c1fe3673764c1c8c8bcb/PTSlogoXS.png","action":"video:https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8"},
     {"title":"TITV (原住民電視)","image":"https://i.imgur.com/QqIdVqz.png","action":"video:https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8"},
     {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
