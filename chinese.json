@@ -5,11 +5,11 @@
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
     {"title":"ⓙ鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://r.jdshipin.com/yDoTN","action0":"video:http://161.118.192.255/cgi-bin/kds.tw?fhk.hk"},
-    {"title":"▸新傳媒8頻道","image":"https://www.kds.tw/wp-content/uploads/2025/09/687b15a592231_P9T3-480x320.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?chnl8.sg"},
+    {"title":"▸新傳媒8頻道","image":"https://www.kds.tw/wp-content/uploads/2025/09/687b1590c0b47_NFzf.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?chnl8.sg"},
     {"title":"▸新傳媒U頻道","image":"https://onecms-res.cloudinary.com/image/upload/v1673978131/mediacorp/corporate/inline-images/channel%20u__370x180.jpg","image_":"https://static.wikia.nocookie.net/logopedia/images/f/fe/SPH_Channel_U_logo_stacked_v2.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?chnlu.sg"},
     {"title":"🔗Astro AEC","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?aec"},
     {"title":"➲AEC.web","image":"https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/astro-aec-656x388.jpg","action":"link:window:https://www.tvmalaysia.live/channel/astro-aec"},
-    {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
+    {"title":"🔗8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?8tvv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"},
     {"title":"*◎澳門Macau 衛星頻道 Ch.96","image":"https://i.imgur.com/oFPUZ97.png","action":"video:https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8"},
     {"title":"港台電視32-時事","image":"https://i.imgur.com/MXLuUoU.png","action":"video:https://cdn.163189.xyz/163189/rthk32"},
     {"title":"港台電視31-綜合","image":"https://i.imgur.com/kf818kM.png","action":"video:https://cdn.163189.xyz/163189/rthk31"},
