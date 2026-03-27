@@ -5,6 +5,7 @@
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
     {"title":"*◎NHK World-Japan - 728","image":"https://i.imgur.com/TDCuUDs.png","action":"video:https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8"},
+    {"title":"*◎JIB TV (10m delay)","image":"https://biz.jibtv.com/assets/img/logo/logo-jibtv.png","action":"video:https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8"},
     {"title":"*◎DW English - 1053","image":"https://play-lh.googleusercontent.com/McVghG8NNW9800RAmf1ZXTv2FguV12AvJnPW9Mv8RbK9uLkVZQZX--ee1cJz3Sv_17A","action":"video:https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"},
     {"title":"Taiwan Plus","image":"https://i.imgur.com/SfcZyqm.png","action":"video:https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"},
     {"title":"📻◎NPR (Radio)","icon":"radio","action":"audio:https://npr-ice.streamguys1.com/live.mp3"},
