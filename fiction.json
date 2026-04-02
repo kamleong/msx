@@ -42,7 +42,9 @@
     {"title":"▸HBO Signature","image":"https://ia903102.us.archive.org/31/items/HboSignature/hbo%20signature.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?hbo.sign"},
     {"display":false,"title":"◎♇ PlutoTV Spotlight (684p)","image":"https://i.imgur.com/UmuJkVB.png","action":"video:https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId="},
     {"display":false,"title":"Dunia Sinema HD","image":"https://i.postimg.cc/XqBwckyb/dunia-sinema.png","action":"video:https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"},
-    {"title":"🔗澳門蓮花衛視","image":"https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?lotustv"},
+    {"title":"🔗澳門蓮花衛視","image":"https://sendcv.me/SendCVUpload/Logo/5758/2022060614460040355.jpg","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?lotustv"
+    ,"properties":{"button:content:action":"execute:fetch:http://161.118.192.255/cgi-bin/record.sh?url=http://161.118.192.255/cgi-bin/stream.m3u?lotustv", "icon0":"save-alt", "button:content:icon":"fiber-manual-record"}
+    },
     {"title":"➲美亚电影台(普)","image":"https://img.tiantianzhibo.net/tv/meiyadianying.jpg","action":"link:window:https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/matv/"},
     {"title":"美亞電影台","image":"https://img.tiantianzhibo.net/tv/meiyadianying.jpg","action":"video:http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn","action1":"video:http://161.118.192.255/cgi-bin/kds.tw?matv"},
     {"title":"▸東森電影台","image":"https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?etmovie"},
