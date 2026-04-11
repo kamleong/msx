@@ -4,6 +4,7 @@
      "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
+    {"title":"📺🅳dsdq","icon":"connected-tv","action":"content:http://161.118.192.255/cgi-bin/msx.json?dsdq"},
     {"title":"☑◎CCTV-4 中文国际（美） Ⓢ","image":"https://i.imgur.com/1TPiRqR.png","action":"video:https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8"},
     {"title":"CCTV-4 中文国际（亚）","image":"https://i0.wp.com/enjoytv.asia/wp-content/uploads/2021/05/CCTV-4-LOGO-final-copy-1.png","action":"video:https://edge2.laotv.la/live/CCTV4A/sc-gaFECQ/index.m3u8"},
     {"title":"➲𝄞CCTV-15音乐","image":"https://i.imgur.com/m2R60TJ.png","action":"link:window:https://tv.cctv.com/live/cctv15/"},
