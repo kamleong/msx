@@ -5,7 +5,7 @@
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
     {"title":"🎬Randomize","icon":"video-camera-front","action":"content:http://161.118.192.255/cgi-bin/msx.json?fiction"},
-    {"title":"豆鱼","image":"https://cn.technode.com/wp-content/blogs.dir/18/files/2018/10/douyu.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?douyu"},
+    {"title":"斗鱼直播","image":"https://cn.technode.com/wp-content/blogs.dir/18/files/2018/10/douyu.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?douyu"},
     {"title":"ⓟTV Land Drama","image":"http://161.118.192.255/cgi-bin/plutotv.png?5d40bebc5e3d2750a2239d7e","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5d40bebc5e3d2750a2239d7e"},
     {"title":"🖇ⓟUniversal Action","image":"http://161.118.192.255/cgi-bin/plutotv.png?654933e253fc970008390114","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?654933e253fc970008390114","action0":"video:https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/654933e253fc970008390114/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
     {"title":"ⓟClassic TV Crime Drama","image":"https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?61325c4f982acd000723287e"
