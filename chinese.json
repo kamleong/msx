@@ -42,8 +42,8 @@
     {"title":"☑◎人間衛視","image":"http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png","action":"video:https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"},
     {"title":"☑◎優視頻道","image":"http://www.uchanneltv.us/uploads/7/6/2/5/76251585/uchannel-tv-logo-update-v2.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/playlist.m3u8"},
     {"title":"ETTV America (東森美洲電視)","image":"https://www.ebc.net.tw/Images/169-america.jpg","action":"video:http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8"},
-    {"title":"SinoTV 華語電視 (LA)","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8"},
-    {"title":"SinoTV 華語電視 (NY) 粤語","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8"},
+    {"display":false,"title":"SinoTV 華語電視 (LA)","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8"},
+    {"display":false,"title":"SinoTV 華語電視 (NY) 粤語","image":"https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png","action":"video:http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8"},
     {"title":"◎美南電視 (STV15.3)","image":"https://scdaily.com/images/tTkalKyBNDiucOvxt03SBVuDwoi6zfg74KjYjyGH.png","action":"video:http://cdn71.liveonlineservices.com/hls/stv.m3u8"}
   ]
 }
