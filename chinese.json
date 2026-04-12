@@ -20,6 +20,7 @@
     {"title":"HOY78台 (資訊台)","image":"https://upload.wikimedia.org/wikipedia/zh/8/85/HOY_info_ident_2022.png","action":"video:https://cdn.163189.xyz/163189/hoy78","action0":"video:https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8"},
     {"display":false,"title":"➲HOY78台 (資訊台).web","image":"https://upload.wikimedia.org/wikipedia/zh/8/85/HOY_info_ident_2022.png","action":"link:window:https://www.iptv345.com/?act=play&token=ad6370f38fd43b2fb21eac27e65146db&tid=gt&id=11"},
     {"title":"🅹jdshipin","icon":"connected-tv","action":"content:http://161.118.192.255/cgi-bin/msx.json?jdshipin"},
+    {"title":"epg.pw.tw@freetv.fun","icon":"connected-tv","action":"content:http://161.118.192.255/cgi-bin/msx.json?epg.pw.tw"},
     {"title":"➲TVB News Channel (無綫新聞台)","image":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8x94CJI19Vz2LTwbY0-JrO65aXfedgzwNjY9iHQwFsxv-Wz9J","action":"link:window:https://v1.welife6.com/channels/tvb-news-channel/"},
     {"title":"ⓙTVB News Channel (無綫新聞台)","image":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8x94CJI19Vz2LTwbY0-JrO65aXfedgzwNjY9iHQwFsxv-Wz9J","action":"video:http://r.jdshipin.com/CkuBd"},
     {"title":"🔗 📺TVB Jade (翡翠台) (720p)","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJ61l0ivyu413yujeSSunRmBvQXFE_KC_MLxSLx6C-GTodaMz","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?tvb"},
