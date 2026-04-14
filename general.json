@@ -4,6 +4,7 @@
      "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
+    {"title":"RTM","image":"https://rtmklik.rtm.gov.my/img/rtm_logo.690c51e2.png","action":"content:http://161.118.192.255/cgi-bin/msx.json?rtm"},
     {"title":"TV2","image":"https://rtm.glueapi.io/v3/content/2/image/960x540/images.title","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
     {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action0":"video:http://cdn6.163189.xyz/163189/8tv","action":"video:http://php.jdshipin.com/smt.php?id=TV8"},
     {"title":"➲8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
