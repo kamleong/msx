@@ -15,7 +15,7 @@
           "iptv-org":"https://iptv-org.github.io/channels/my/8TV",
           "action":"video:http://cdn6.163189.xyz/163189/8tv","action0":"video:http://php.jdshipin.com/smt.php?id=TV8"
          },
-         {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
+         {"title":"TV2","image":"https://rtm.glueapi.io/v3/content/2/image/960x540/images.title","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
          {"title":"▸鳳凰衛視","image":"https://i.imgur.com/rwY7FHT.png","action":"video:http://r.jdshipin.com/cCCzW","action0":"video:http://161.118.192.255/cgi-bin/kds.tw?fhk"},
          {"display":false,"title":"鳳凰衛視.us","image":"https://i.imgur.com/rwY7FHT.png","action":"video:https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8"},
          {"title":"▸鳳凰衛視香港台","image":"https://live.fanmingming.com/tv/凤凰卫视香港台.png","action":"video:http://r.jdshipin.com/yDoTN","action0":"video:http://161.118.192.255/cgi-bin/kds.tw?fhk.hk"},
