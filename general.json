@@ -4,7 +4,7 @@
      "type": "separate", "layout": "0,0,1,2", "layout_": "x,y,w,h", "color": "msx-glass",
      "iconSize": "small", "icon": "msx-white-soft:minimize"
   }, "items": [
-    {"title":"TV2","image":"https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
+    {"title":"TV2","image":"https://rtm.glueapi.io/v3/content/2/image/960x540/images.title","action":"video:https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"},
     {"title":"8TV","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action0":"video:http://cdn6.163189.xyz/163189/8tv","action":"video:http://php.jdshipin.com/smt.php?id=TV8"},
     {"title":"➲8TV.web","image":"https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png","action":"link:window:https://www.tvmalaysia.live/channel/tv8"},
     {"title":"◎Nusantara TV (720p)","image":"https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png","action":"video:https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"},
