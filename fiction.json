@@ -51,7 +51,7 @@
     },
     {"title":"ⓓ斗鱼直播","image":"https://cn.technode.com/wp-content/blogs.dir/18/files/2018/10/douyu.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?douyu"},
     {"title":"ⓗ虎牙直播","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQ8PU-Yxtol6kcLdrOKWtEEz08HwIhJWcTA&s","action":"content:http://161.118.192.255/cgi-bin/msx.json?huya"},
-    {"title":"ⓗ虎牙-功夫-大片","image":"https://huyaimg.msstatic.com/cdnimage/game/2135-MS.png","action":"video:https://www.goodiptv.club/huya/11352941"},
+    {"title":"ⓗ初心-功夫-大片","image":"https://huyaimg.msstatic.com/cdnimage/game/2135-MS.png","action":"video:https://www.goodiptv.club/huya/11352941"},
     {"title":"➲美亚电影台(普)","image":"https://img.tiantianzhibo.net/tv/meiyadianying.jpg","action":"link:window:https://www.kds.tw/tv/china-tv-channels-online/taiwan-tv-channels-online/matv/"},
     {"title":"美亞電影台","image":"https://img.tiantianzhibo.net/tv/meiyadianying.jpg","action":"video:http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn","action1":"video:http://161.118.192.255/cgi-bin/kds.tw?matv"},
     {"display":false,"title":"▸東森電影台","image":"https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?etmovie"},
