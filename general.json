@@ -18,15 +18,15 @@
     {"title":"🔗台灣公視","image":"https://i.imgur.com/R9hwOZx.png","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?pts"},
     {"title":"◎WPS TV","image":"https://i.imgur.com/zwzmwse.jpg","action":"video:https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"},
     {"title":"ⓣ◎WCVB-TV News Boston MA","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WCVB-TV_alternate_2021.svg/1280px-WCVB-TV_alternate_2021.svg.png","action":"video:https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8"},
-    {"title":"WFTX News Fort Myers FL","image":"https://www.newscaststudio.com/wp-content/uploads/2026/03/wftx-fox-florida-branding-logo.jpg","action":"video:https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"},
+    {"display":false,"title":"WFTX News Fort Myers FL","image":"https://www.newscaststudio.com/wp-content/uploads/2026/03/wftx-fox-florida-branding-logo.jpg","action":"video:https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"},
     {"title":"WPTV News West Palm Beach FL","image":"https://yt3.googleusercontent.com/ytc/AIdro_n_qWWIqMOfTTFF0vrOYFGwGLnfy-UfOzx9BDkc41W0Aro=s900-c-k-c0x00ffffff-no-rj","action":"video:https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"},
     {"display":false,"title":"⒨WOLO-TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WOLO_25_2022.svg/250px-WOLO_25_2022.svg.png","action":"video:"},
     {"display":false,"title":"ⓣABC Tampa Bay 28","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-N_f6-QSnEsEQSrAfMztWEUfgVAJLNrs_ng&s","action":"video:https://livetv-fa.tubi.video/wfts2/playlist.m3u8"},
-    {"title":"ABC 7 Denver CO (KMGH)","image":"https://i.imgur.com/MWvoICD.png","action":"video:https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"},
+    {"title":"ABC 7 Albuquerque NM (KOAT)","image":"https://upload.wikimedia.org/wikipedia/en/1/19/KOAT_7_ABC_2022.svg","action":"video:https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8"},
     {"title":"☑◎Victor Valley TV","image":"https://i.imgur.com/zgiuNNj.png","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-5317556-1/playlist.m3u8"},
     {"title":"Maryland Public TV (PBS)","image":"https://image.pbs.org/bento3-prod/mpt-bento-live-pbs/main/16a2473dc6_mpt_header_logo_medium3.png","action":"video:https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"},
     {"display":false,"title":"ⓣ◎CBS 7 Seattle WA (KIRO)","image":"https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5A82A266-838C-4E90-B31F-8C32951F0A91/3-1x1.png/200","action":"video:https://livetv-fa.tubi.video/kiro/playlist.m3u8"},
     {"title":"◎C31 Melbourne","image":"https://upload.wikimedia.org/wikipedia/en/7/7b/C31_Melbourne_logo_2010.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8"},
-    {"title":"◎C44 Adelaide","image":"https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192715/C44-logo.png","action":"video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"}
+    {"title":"◎C44 Adelaide","image":"https://www.onlyadelaide.com.au/image/ico-c44.jpg","action":"video:https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8"}
   ]
 }
