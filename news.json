@@ -16,11 +16,14 @@
     {"title":"GB News","image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png","action":"video:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"},
     {"title":"*◎ABC News 24 (AU) - 23","image":"https://kahoot.com/files/2020/11/abc-australia-logo-1024x1024.png","action":"video:https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"},
     {"title":"ⓣ☑ABC News (USA)","image":"https://i.imgur.com/7sJLzKi.png","action":"video:https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8"},
-    {"title":"🔭◎CBS News - 1009","image":"https://i.imgur.com/nki2HDQ.png","action":"video:https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8"},
-    {"title":"✗ NBC News - 1010","image":"https://i.imgur.com/v48mMRT.png","action":"video:https://lnc-nbc-news-now.tubi.video/master.m3u8"},
+    {"title":"CBS News","image":"https://i.imgur.com/nki2HDQ.png","action":"video:https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"},
+    {"display":false,"title":"ⓟCBS News","image":"http://161.118.192.255/cgi-bin/plutotv.png?5a6b92f6e22a617379789618","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5a6b92f6e22a617379789618"},
+    {"title":"🆇NBC News Now","image":"https://i.imgur.com/v48mMRT.png","action":"video:https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003","actionX":"video:https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8"},
+    {"display":false,"title":"ⓟNBC News Now","image":"http://161.118.192.255/cgi-bin/plutotv.png?5df97894467dfa00091c873c","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5df97894467dfa00091c873c"},
     {"display":false,"title":"Newsmax","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png","action":"video:https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8"},
-    {"title":"ⓟScripps News 2600","image":"http://161.118.192.255/cgi-bin/plutotv.png?5459795fc9f133a519bc0bef","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5459795fc9f133a519bc0bef"},
-    {"title":"PressTV","image":"https://www.presstv.ir/custom/images/site/LOGO.gif","action":"video:https://live.presstv.ir/hls/presstv.m3u8"},
+    {"display":false,"title":"ⓟScripps News 2600","image":"http://161.118.192.255/cgi-bin/plutotv.png?5459795fc9f133a519bc0bef","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5459795fc9f133a519bc0bef"},
+    {"title":"ⓣScripps News","image":"http://161.118.192.255/cgi-bin/plutotv.png?5459795fc9f133a519bc0bef","action":"video:https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8"},
+    {"title":"➲RTE News Now","image":"http://static.epg.best/ie/RTENewsNow.ie.png","action":"link:window:https://www.rte.ie/player/onnow/66546216065"},
     {"title":"☑Euronews English - 1050","image":"https://i.imgur.com/8MsbPCU.png","action":"video:https://live-manifest.production-public.tubi.io/live/c841471d-dc14-43fb-9ba5-c266e7edcce4/playlist.m3u8"},
     {"title":"Africanews English - 1051","image":"https://i.imgur.com/xocvePC.png","action":"video:https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8"},
     {"title":"◎i24NEWS English","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png","action":"video:https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_3/chunklist.m3u8"},
@@ -42,6 +45,7 @@
     {"title":"RTB Sukmaindera","image":"https://i.imgur.com/WpMGnTr.png","action":"video:https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8"},
     {"title":"◎CNN Indonesia","image":"https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png","action":"video:https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
     {"title":"◎CNBC Indonesia","image":"https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg","action":"video:https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8"},
-    {"title":"CCTN Philippines","image":"https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png","action":"video:http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"}
+    {"title":"CCTN Philippines","image":"https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png","action":"video:http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"},
+    {"display":false,"title":"PressTV","image":"https://www.presstv.ir/custom/images/site/LOGO.gif","action":"video:https://live.presstv.ir/hls/presstv.m3u8"}
   ]
 }
