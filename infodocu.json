@@ -23,6 +23,7 @@
     {"title":"🆇Curousity Now","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMNbtyXsEvva4u1FuRysOGccnw_wI8ra3eQ&s","action":"video:https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8"},
     {"title":"🆇Xplore","image":"https://canvas-lb.tubitv.com/opts/YK4xA3Lsuwe-Ug==/e4164e0a-fdae-4bee-a326-545df18e71d0/CPwDEJ0COgUxLjEuOQ==","action":"video:https://xplore-xumo.amagi.tv/playlist.m3u8"},
     {"title":"⧁◎WildEarth","image":"https://i.imgur.com/Vhv5gjN.png","action":"video:https://jmp2.uk/stvp-US3800007CR","action2":"video:https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8"},
+    {"title":"ⓓCCTV-9 纪录","image":"https://tb.zbds.top/logo/CCTV9.png","action":"video:http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub"},
     {"display":false,"title":"ⓟModern Marvels","image":"https://images.pluto.tv/channels/6540ff2d770cf1000866b90a/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?6540ff2d770cf1000866b90a"},
     {"display":false,"title":"ⓟMassive Makers","image":"https://images.pluto.tv/channels/66166ccaaec96800080f6b59/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?66166ccaaec96800080f6b59"},
     {"display":false,"title":"ⓟReal Disaster Channel","image":"https://images.pluto.tv/channels/64e89cfc9c1e3900084ca663/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?64e89cfc9c1e3900084ca663"},
