@@ -47,7 +47,7 @@
     {"title":"YTA (KVVB.TV 33.1)","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6UU4yhN8oWdrne3fp--1daM8Th8LnoCrCA&s","action":"video:https://2-fss-2.streamhoster.com/pl_120/201950-1309230-1/playlist.m3u8"},
     {"title":"TVB J2","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/250px-TVB_J2.jpg","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=j2"},
     {"title":"ⓣDance Moms","image":"https://images-cdn4.welcomesoftware.com/assets/Dance+moms-hero.jpg/Zz0yYzlkM2M3MGExNDcxMWVmOGY5ZTZhZWI3ZTI5MDgwYg==?width=160","action":"video:https://livetv-fa.tubi.video/dance-moms/playlistR1080p.m3u8"},
-    {"title":"🅃Boomerang","image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true","action":"video:https://tvpass.org/live/Boomerang/hd"},
+    {"display":false,"title":"🅃Boomerang","image":"https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true","action":"video:https://tvpass.org/live/Boomerang/hd"},
     {"display":false,"title":"ⓟRetro Toons","image":"https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5c5c2b9d8002db3c3e0b1c6d"},
     {"title":"🦸◎RetroCrush TV (1080p)","image":"https://play-lh.googleusercontent.com/0sGC_MLday5uTDFA7x0gzd2UUPTqex4P7XP1YCE2GGJsl8opuFNqdbywH-cqXo0iPWA=w240-h480","action":"video:https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8"},
     {"title":"🐭◎Xtrema Retro Cartoons (360p)","image":"https://i.imgur.com/60ylWbQ.png","action":"video:https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8"},
