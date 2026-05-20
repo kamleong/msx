@@ -28,6 +28,7 @@
     {"title":"🖼Img","icon":"photo","action":"image:https://msx.benzac.de/img/bg1.jpg"},
     {"title":"📷Img","image":"https://msx.benzac.de/img/bg1.jpg","action":"image:context"},
     {"title":"🖼","image":"https://msx.benzac.de/img/test.jpg","action":"content:http://161.118.192.255/cgi-bin/msx.json?img"},
+    {"title":"➲健身动起来",image":"https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/31/1630390207241_240.png","action":"link:window:https://tv.cctv.com/lm/jsdql/"},
     {"title":"☼☯太極氣功◎📹 🆈","icon":"emoji-people","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=P-qEhLS8Md8",
      "action0":"video:https://drive.google.com/uc?export=download&id=1E0oqhdYU3JAT7lPFt9k37tb-OQMggWry&video.mp4"
     },{"title":"㊣⛢八段錦⊙⊚◎ 🇾","icon":"accessibility","action0":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=Bewk1ML6WIE",
