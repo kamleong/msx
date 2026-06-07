@@ -14,7 +14,7 @@
     {"title":"ⓓCCTV-13 新闻","image":"https://tb.zbds.top/logo/CCTV13.png","action":"video:http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub"},
     {"title":"📻◎佛山电台 (Radio)","icon":"radio","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
     {"title":"▸大湾区卫视","image":"https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg","action0":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8","action":"video:http://161.118.192.255/cgi-bin/kds.tw?gdtv51"},
-    {"title":"ⓓ广东卫视","image":"http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub","action":"link:window:https://www.gdtv.cn/tvchanneldetail/43"},
+    {"title":"ⓓ广东卫视","image":"https://tb.zbds.top/logo/广东卫视.png","action":"http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub"},
     {"title":"➲广东卫视","image":"https://tb.zbds.top/logo/广东卫视.png","action":"link:window:https://www.gdtv.cn/tvchanneldetail/43"},
     {"title":"▸北京卫视","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ33cQAsaEW0u2X6q1pxNA5dSwX8xOnkEnMA&s","action":"video:http://161.118.192.255/cgi-bin/kds.tw?brtv"},
     {"title":"▸东方卫视","image":"https://i.imgur.com/WqM6xnF.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?dragontv"},
