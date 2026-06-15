@@ -8,7 +8,7 @@
     {"title":"☑◎CCTV-4 中文国际（美） Ⓢ","image":"https://i.imgur.com/1TPiRqR.png","action":"video:https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8"},
     {"title":"CCTV-4 中文国际（亚）","image":"https://i0.wp.com/enjoytv.asia/wp-content/uploads/2021/05/CCTV-4-LOGO-final-copy-1.png","action":"video:http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd","action0":"video:http://107.150.60.122/live/cctv4hd.m3u8"},
     {"title":"➲𝄞CCTV-15音乐","image":"https://i.imgur.com/m2R60TJ.png","action":"link:window:https://tv.cctv.com/live/cctv15/"},
-    {"title":"▸CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
+    {"title":"▸CCTV15","image":"https://tb.zbds.top/logo/CCTV15.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
     {"title":"CCTV-1 综合","image":"https://tb.zbds.top/logo/CCTV1.png","action0":"video:http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd","action":"video:http://107.150.60.122/live/cctv1hd.m3u8"},
     {"title":"港台電視33-CCTV1","image":"https://archive.org/services/img/33-cctv-1_202304","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=rthk33","action0":"video:https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8"},
     {"title":"ⓓCCTV-13 新闻","image":"https://tb.zbds.top/logo/CCTV13.png","action":"video:http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub"},
