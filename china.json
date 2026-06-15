@@ -10,7 +10,7 @@
     {"title":"➲𝄞CCTV-15音乐","image":"https://i.imgur.com/m2R60TJ.png","action":"link:window:https://tv.cctv.com/live/cctv15/"},
     {"title":"▸CCTV15","image":"https://tb.zbds.top/logo/CCTV15.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
     {"title":"CCTV-1 综合","image":"https://tb.zbds.top/logo/CCTV1.png","action0":"video:http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd","action":"video:http://107.150.60.122/live/cctv1hd.m3u8"},
-    {"title":"港台電視33-CCTV1","image":"https://archive.org/services/img/33-cctv-1_202304","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=rthk33","action0":"video:https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8"},
+    {"title":"🅹港台電視33-CCTV1","image":"https://archive.org/services/img/33-cctv-1_202304","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=rthk33","action0":"video:https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8"},
     {"title":"ⓓCCTV-13 新闻","image":"https://tb.zbds.top/logo/CCTV13.png","action":"video:http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub"},
     {"title":"📻◎佛山电台 (Radio)","icon":"radio","action":"audio:https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8"},
     {"title":"▸大湾区卫视","image":"https://upload.wikimedia.org/wikipedia/zh/b/b6/GRT_GBA_TV.jpg","action0":"video:https://k44991.kylintv.tv/live/tvs_iphone.m3u8","action":"video:http://161.118.192.255/cgi-bin/kds.tw?gdtv51"},
