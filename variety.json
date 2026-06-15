@@ -7,7 +7,7 @@
     {"title":"♫mp3","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?mp3"},
     {"title":"♪Songs","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?songs"},
     {"title":"♫Music","icon":"library-music","action":"content:http://161.118.192.255/cgi-bin/msx.json?music"},
-    {"title":"▸CCTV15","image":"https://5b0988e595225.cdn.sohucs.com/images/20180919/dc6374f73c2e49dfbea03d9650a175c6.jpeg","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
+    {"title":"▸CCTV15","image":"https://imgur.com/m2R60TJ.png","action":"video:http://161.118.192.255/cgi-bin/kds.tw?cctv15"},
     {"display":false,"title":"ⓓCCTV-15 音乐","image":"https://tb.zbds.top/logo/CCTV15.png","action":"video:http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub"},
     {"title":"⒟CCTV-15 音乐","image":"https://tb.zbds.top/logo/CCTV15.png","action":"video:http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009"},
     {"title":"ⓓ风云音乐","image":"https://tb.zbds.top/logo/风云音乐.png","action":"video:http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub"},
