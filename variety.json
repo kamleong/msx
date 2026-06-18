@@ -40,7 +40,7 @@
     {"title":"🆇SNL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjLim1G8OKCOHOyBPhsmGOJIG1qI-WV-cwg&s","action":"video:https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8"},
     {"display":false,"title":"ⓟComedy Central","image":"https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5ca671f215a62078d2ec0abf"},
     {"display":false,"title":"Comedy Dynamics","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfvHpBnZxjqsxmnyziBV7Pjm8tcTlOSrP7og&s","action":"video:https://aegis-cloudfront-1.tubi.video/03cfa38e-ff8b-4e52-8fd2-084636c0c043/playlist.m3u8"},
-    {"title":"ⓟET","image":"http://161.118.192.255/cgi-bin/plutotv.png??5dc0c78281eddb0009a02d5e","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5dc0c78281eddb0009a02d5e"},
+    {"title":"ⓟET","image":"http://161.118.192.255/cgi-bin/plutotv.png?5dc0c78281eddb0009a02d5e","action":"video:http://161.118.192.255/cgi-bin/plutotv.m3u?5dc0c78281eddb0009a02d5e"},
     {"title":"🅹娛樂新聞台","image":"https://staticsfm.tvbanywhere.com.sg/images/liveChannelImage/2020/6/15/1594786611129.png","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw"},
     {"display":false,"title":"TVB J2 (原82台）已於2024年4月22日停播，並與「無綫財經體育資訊台」合併，重組為全新綜合娛樂頻道「TVB Plus」","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/250px-TVB_J2.jpg","action":"video:http://php.jdshipin.com/TVOD/iptv.php?id=j2"},
     {"title":"ⓓCCTV-5 体育","image":"https://tb.zbds.top/logo/CCTV5.png","action":"video:http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub"},
