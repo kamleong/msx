@@ -58,6 +58,7 @@
     {"display":false,"title":"🐭◎Xtrema Retro Cartoons (360p)","image":"https://i.imgur.com/60ylWbQ.png","action":"video:https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8"},
     {"title":"Cartoon Network","image":"https://variety.com/wp-content/uploads/2024/08/Cartoon-Network-logo.png","action":"video:https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8"},
     {"title":"ⓕ精選動漫台","image":"https://epg.pw/media/images/channel/2023/06/05/large/20230605010526048942_44.jpg","action":"video:https://stream1.freetv.fun/34d341b28d12cfc988f2423e2981320ccc57ca9d55436b6b94a1a0c16e745ff1.ctv"},
-    {"title":"➲哆啦A梦","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Doraemon_Charactor.jpg/250px-Doraemon_Charactor.jpg","action":"link:window:https://www.huya.com/11601963"}
+    {"display":false,"title":"➲哆啦A梦","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Doraemon_Charactor.jpg/250px-Doraemon_Charactor.jpg","action":"link:window:https://www.huya.com/11601963"},
+    {"title":"🔗哆啦A梦","image":"https://upload.wikimedia.org/wikipedia/zh/thumb/b/b0/Doraemon_Charactor.jpg/250px-Doraemon_Charactor.jpg","action":"video:http://161.118.192.255/cgi-bin/stream.m3u?doraemon"}
   ]
 }
