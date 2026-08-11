@@ -31,7 +31,7 @@
          {"display":false,"title":"ⓟScripps News 2600","image":"http://161.118.192.255/cgi-bin/plutotv.png?5459795fc9f133a519bc0bef","action":"video:http://161.118.192.255/c gi-bin/plutotv.m3u?5459795fc9f133a519bc0bef"},
          {"title":"▸Global News (寰宇新聞)","image":"https://i.imgur.com/oYUjEle.png","action0":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=6IquAgfvYmc","action":"video:http://161.118.192.255/cgi-bin/kds.tw?globnews"},
          {"title":"🆈公視新聞","image":"https://i.ytimg.com/vi/quwqlazU-c8/hqdefault.jpg","action":"video:plugin:http://msx.benzac.de/plugins/youtube.html?id=quwqlazU-c8"},
-         {"title":"台視新聞台 (TTV News)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
+         {"title":"台視新聞台 (TTV News)","image":"https://i.imgur.com/AfkK0gv.png","action":"video:http://74.91.26.218:82/live/ttvnews.m3u8","action0":"video:http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"},
          {"display":false,"title":"華視 (CTS)","image":"https://i.imgur.com/ISl9WsI.png","action":"video:https://k44991.kylintv.tv/live/ctshd_iphone.m3u8"},
          {"title":"澳門衛星頻道 Ch.96 (Macau)","image":"https://i.imgur.com/oFPUZ97.png","action":"video:https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8"},
          {"title":"港台電視32-時事","image":"https://i.imgur.com/MXLuUoU.png","action":"video:https://cdn.163189.xyz/163189/rthk32"},
