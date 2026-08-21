@@ -69,13 +69,13 @@
       ]
     }
    },
-   {"icon": "videocam", "label": "News/Info", "label_": "News+Talk", "data": "https://kamleong.github.io/msx/news.json"},      
-   {"icon": "tv", "label": "Public/General", "label_": "News+Documentary+Entertainment", "data": "https://kamleong.github.io/msx/general.json"},
-   {"icon": "info", "label": "Info/Docu", "label_": "NoMoviesEntertainment", "data": "https://kamleong.github.io/msx/infodocu.json"},
-   {"icon": "person", "label": "中華/漢語", "label_": "漢語-中台港澳-海外", "data": "https://kamleong.github.io/msx/chinese.json"},
-   {"icon": "flag", "label": "中国大陆", "label_": "漢語-中台港澳-海外", "data": "https://kamleong.github.io/msx/china.json"},
-   {"icon": "local-movies", "label": "Movies/Series", "data": "https://kamleong.github.io/msx/fiction.json"},
-   {"icon": "video-camera-back", "label": "Leisure/Entmt", "label_": "LiveStyle,Music,Travel,Variety,Entertainment", "data": "https://kamleong.github.io/msx/variety.json"},
-   {"icon": "music-video", "label": "Other", "data": "https://kamleong.github.io/msx/other.json"}
+   {"icon": "videocam", "label": "News/Info", "label_": "News+Talk", "data": "http://161.118.192.255/cgi-bin/msx.json?news"},      
+   {"icon": "tv", "label": "Public/General", "label_": "News+Documentary+Entertainment", "data": "http://161.118.192.255/cgi-bin/msx.json?general"},
+   {"icon": "info", "label": "Info/Docu", "label_": "NoMoviesEntertainment", "data": "http://161.118.192.255/cgi-bin/msx.json?infodocu"},
+   {"icon": "person", "label": "中華/漢語", "label_": "漢語-中台港澳-海外", "data": "http://161.118.192.255/cgi-bin/msx.json?chinese"},
+   {"icon": "flag", "label": "中国大陆", "label_": "漢語-中台港澳-海外", "data": "http://161.118.192.255/cgi-bin/msx.json?china"},
+   {"icon": "local-movies", "label": "Movies/Series", "data": "http://161.118.192.255/cgi-bin/msx.json?fiction"},
+   {"icon": "video-camera-back", "label": "Leisure/Entmt", "label_": "LiveStyle,Music,Travel,Variety,Entertainment", "data": "http://161.118.192.255/cgi-bin/msx.json?variety"},
+   {"icon": "music-video", "label": "Other", "data": "http://161.118.192.255/cgi-bin/msx.json?other"}
  ]
 }
